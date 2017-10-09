@@ -1,0 +1,65 @@
+1507010963167	Sync.LogManager	DEBUG	Flushing file log
+1507010963173	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507010963173	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507010963173	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507010963173	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507010963174	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507010963174	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507010963174	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507010963174	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507010963174	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507010963174	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507010963196	browserwindow.syncui	DEBUG	observed: weave:ui:clear-error
+1507010963196	browserwindow.syncui	DEBUG	observed: weave:ui:clear-error
+1507010963196	browserwindow.syncui	DEBUG	observed: weave:ui:clear-error
+1507010963196	browserwindow.syncui	DEBUG	observed: weave:ui:clear-error
+1507010963196	browserwindow.syncui	DEBUG	observed: weave:ui:clear-error
+1507010963238	Sync.LogManager	DEBUG	Log cleanup threshold time: 1506146963238
+1507010963976	Sync.LogManager	DEBUG	Done deleting files.
+1507016006812	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507016006815	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507016045126	Sync.Service	DEBUG	User-Agent: Firefox/54.0 (Linux x86_64) FxSync/1.56.0.20170612122310.desktop
+1507016045126	Sync.Service	INFO	Starting sync at 2017-10-03 10:34:05 in browser session ZjWU8i8hJu6O
+1507016045127	Sync.Service	DEBUG	In sync: should login.
+1507016045128	browserwindow.syncui	DEBUG	observed: weave:service:login:start
+1507016045130	browserwindow.syncui	DEBUG	observed: weave:service:login:start
+1507016045132	browserwindow.syncui	DEBUG	observed: weave:service:login:start
+1507016045132	browserwindow.syncui	DEBUG	observed: weave:service:login:start
+1507016045133	browserwindow.syncui	DEBUG	observed: weave:service:login:start
+1507016045134	browserwindow.syncui	DEBUG	observed: weave:service:login:start
+1507016045136	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1507016045136	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1507016045137	browserwindow.syncui	DEBUG	observed: weave:service:login:error
+1507016045138	browserwindow.syncui	DEBUG	onLoginError: login=error.login.reason.no_username, sync=success.sync
+1507016045138	browserwindow.syncui	DEBUG	observed: weave:service:login:error
+1507016045139	browserwindow.syncui	DEBUG	onLoginError: login=error.login.reason.no_username, sync=success.sync
+1507016045140	browserwindow.syncui	DEBUG	observed: weave:service:login:error
+1507016045141	browserwindow.syncui	DEBUG	onLoginError: login=error.login.reason.no_username, sync=success.sync
+1507016045142	browserwindow.syncui	DEBUG	observed: weave:service:login:error
+1507016045142	browserwindow.syncui	DEBUG	onLoginError: login=error.login.reason.no_username, sync=success.sync
+1507016045142	browserwindow.syncui	DEBUG	observed: weave:service:login:error
+1507016045143	browserwindow.syncui	DEBUG	onLoginError: login=error.login.reason.no_username, sync=success.sync
+1507016045146	browserwindow.syncui	DEBUG	observed: weave:service:login:error
+1507016045146	browserwindow.syncui	DEBUG	onLoginError: login=error.login.reason.no_username, sync=success.sync
+1507016045147	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1507016045148	Sync.SyncScheduler	DEBUG	Next sync in 3600000 ms.
+1507016045149	Sync.ErrorHandler	ERROR	Sync encountered a login error
+1507016045151	Sync.Service	DEBUG	Exception calling WrappedLock: Aborting login, client not configured.
+1507016045151	Sync.Service	DEBUG	Not syncing: login returned false.
+1507016045160	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507016045161	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507016045161	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507016045162	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507016045162	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507016045163	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507016045163	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507016045163	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507016045164	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507016045164	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507016045164	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507016045165	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507016045166	Sync.ErrorHandler	DEBUG	Addons installed: 2
+1507016045166	Sync.ErrorHandler	DEBUG	 - Ubuntu Modifications, version 3.2, id ubufox@ubuntu.com
+1507016045166	Sync.ErrorHandler	DEBUG	 - ruler, version 0.3.0, id {b1355a29-9265-4b5e-a3ad-e9d61265d5ac}
+1507016045166	browserwindow.syncui	ERROR	updateUI failed: TypeError: document.getElementById(...) is null (chrome://browser/content/browser-syncui.js:150:7) JS Stack trace: _promiseUpdateUI/<@browser-syncui.js:150:7 < process@Promise-backend.js:922:23 < walkerLoop@Promise-backend.js:806:7 < scheduleWalkerLoop/<@Promise-backend.js:742:11
+1507016045167	browserwindow.syncui	ERROR	updateUI failed: TypeError: document.getElementById(...) is null (chrome://browser/content/browser-syncui.js:150:7) JS Stack trace: _promiseUpdateUI/<@browser-syncui.js:150:7 < process@Promise-backend.js:922:23 < walkerLoop@Promise-backend.js:806:7 < scheduleWalkerLoop/<@Promise-backend.js:742:11

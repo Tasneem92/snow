@@ -1,0 +1,46 @@
+1507019645196	Sync.LogManager	DEBUG	Flushing file log
+1507019645203	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507019645204	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507019645204	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507019645204	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507019645204	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507019645204	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507019645204	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507019645204	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507019645205	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507019645205	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507019645205	browserwindow.syncui	DEBUG	observed: weave:ui:clear-error
+1507019645205	browserwindow.syncui	DEBUG	observed: weave:ui:clear-error
+1507019645205	browserwindow.syncui	DEBUG	observed: weave:ui:clear-error
+1507019645206	browserwindow.syncui	DEBUG	observed: weave:ui:clear-error
+1507019645206	browserwindow.syncui	DEBUG	observed: weave:ui:clear-error
+1507019645214	Sync.LogManager	DEBUG	Log cleanup threshold time: 1506155645214
+1507019645318	Sync.LogManager	DEBUG	Done deleting files.
+1507023245175	Sync.Service	DEBUG	User-Agent: Firefox/54.0 (Linux x86_64) FxSync/1.56.0.20170612122310.desktop
+1507023245175	Sync.Service	INFO	Starting sync at 2017-10-03 12:34:05 in browser session ZjWU8i8hJu6O
+1507023245177	Sync.Service	DEBUG	In sync: should login.
+1507023245179	browserwindow.syncui	DEBUG	observed: weave:service:login:start
+1507023245184	browserwindow.syncui	DEBUG	observed: weave:service:login:start
+1507023245189	browserwindow.syncui	DEBUG	observed: weave:service:login:start
+1507023245191	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1507023245192	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1507023245192	browserwindow.syncui	DEBUG	observed: weave:service:login:error
+1507023245193	browserwindow.syncui	DEBUG	onLoginError: login=error.login.reason.no_username, sync=success.sync
+1507023245197	browserwindow.syncui	DEBUG	observed: weave:service:login:error
+1507023245200	browserwindow.syncui	DEBUG	onLoginError: login=error.login.reason.no_username, sync=success.sync
+1507023245202	browserwindow.syncui	DEBUG	observed: weave:service:login:error
+1507023245202	browserwindow.syncui	DEBUG	onLoginError: login=error.login.reason.no_username, sync=success.sync
+1507023245205	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1507023245206	Sync.SyncScheduler	DEBUG	Next sync in 3600000 ms.
+1507023245207	Sync.ErrorHandler	ERROR	Sync encountered a login error
+1507023245209	Sync.Service	DEBUG	Exception calling WrappedLock: Aborting login, client not configured.
+1507023245209	Sync.Service	DEBUG	Not syncing: login returned false.
+1507023245219	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507023245221	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507023245221	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507023245222	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507023245223	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507023245224	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507023245225	Sync.ErrorHandler	DEBUG	Addons installed: 2
+1507023245225	Sync.ErrorHandler	DEBUG	 - Ubuntu Modifications, version 3.2, id ubufox@ubuntu.com
+1507023245225	Sync.ErrorHandler	DEBUG	 - ruler, version 0.3.0, id {b1355a29-9265-4b5e-a3ad-e9d61265d5ac}

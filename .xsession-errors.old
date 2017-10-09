@@ -1,0 +1,17 @@
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+upstart: bamfdaemon main process (1542) killed by TERM signal
+upstart: hud main process (1560) killed by HUP signal
+upstart: unity-settings-daemon main process (1562) killed by HUP signal
+upstart: gnome-session (Unity) main process (1571) terminated with status 1
+upstart: unity-panel-service main process (1576) killed by HUP signal
+upstart: indicator-bluetooth main process (1607) killed by TERM signal
+upstart: indicator-power main process (1608) killed by TERM signal
+upstart: indicator-datetime main process (1611) killed by TERM signal
+upstart: indicator-printers main process (1618) killed by TERM signal
+upstart: indicator-session main process (1619) killed by TERM signal
+upstart: indicator-application main process (1623) killed by TERM signal
+upstart: indicator-application pre-stop process (13249) killed by TERM signal
+upstart: gnome-session (Unity) pre-stop process (13250) killed by TERM signal
+upstart: Disconnected from notified D-Bus bus
+upstart: unity7 main process (1692) terminated with status 1

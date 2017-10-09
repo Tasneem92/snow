@@ -1,0 +1,48 @@
+1507031521349	Sync.LogManager	DEBUG	Flushing file log
+1507031521354	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507031521354	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507031521354	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507031521354	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507031521355	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507031521355	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507031521355	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507031521355	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507031521357	browserwindow.syncui	DEBUG	observed: weave:ui:clear-error
+1507031521357	browserwindow.syncui	DEBUG	observed: weave:ui:clear-error
+1507031521357	browserwindow.syncui	DEBUG	observed: weave:ui:clear-error
+1507031521357	browserwindow.syncui	DEBUG	observed: weave:ui:clear-error
+1507031521367	Sync.LogManager	DEBUG	Log cleanup threshold time: 1506167521367
+1507031521467	Sync.LogManager	DEBUG	Done deleting files.
+1507035121333	Sync.Service	DEBUG	User-Agent: Firefox/54.0 (Linux x86_64) FxSync/1.56.0.20170612122310.desktop
+1507035121333	Sync.Service	INFO	Starting sync at 2017-10-03 15:52:01 in browser session ZjWU8i8hJu6O
+1507035121335	Sync.Service	DEBUG	In sync: should login.
+1507035121337	browserwindow.syncui	DEBUG	observed: weave:service:login:start
+1507035121340	browserwindow.syncui	DEBUG	observed: weave:service:login:start
+1507035121346	browserwindow.syncui	DEBUG	observed: weave:service:login:start
+1507035121348	browserwindow.syncui	DEBUG	observed: weave:service:login:start
+1507035121350	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1507035121350	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1507035121350	browserwindow.syncui	DEBUG	observed: weave:service:login:error
+1507035121351	browserwindow.syncui	DEBUG	onLoginError: login=error.login.reason.no_username, sync=success.sync
+1507035121353	browserwindow.syncui	DEBUG	observed: weave:service:login:error
+1507035121353	browserwindow.syncui	DEBUG	onLoginError: login=error.login.reason.no_username, sync=success.sync
+1507035121355	browserwindow.syncui	DEBUG	observed: weave:service:login:error
+1507035121355	browserwindow.syncui	DEBUG	onLoginError: login=error.login.reason.no_username, sync=success.sync
+1507035121356	browserwindow.syncui	DEBUG	observed: weave:service:login:error
+1507035121356	browserwindow.syncui	DEBUG	onLoginError: login=error.login.reason.no_username, sync=success.sync
+1507035121357	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1507035121358	Sync.SyncScheduler	DEBUG	Next sync in 3600000 ms.
+1507035121358	Sync.ErrorHandler	ERROR	Sync encountered a login error
+1507035121360	Sync.Service	DEBUG	Exception calling WrappedLock: Aborting login, client not configured.
+1507035121360	Sync.Service	DEBUG	Not syncing: login returned false.
+1507035121368	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507035121369	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507035121369	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507035121371	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507035121371	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507035121372	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507035121372	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507035121372	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507035121373	Sync.ErrorHandler	DEBUG	Addons installed: 2
+1507035121373	Sync.ErrorHandler	DEBUG	 - Ubuntu Modifications, version 3.2, id ubufox@ubuntu.com
+1507035121373	Sync.ErrorHandler	DEBUG	 - ruler, version 0.3.0, id {b1355a29-9265-4b5e-a3ad-e9d61265d5ac}

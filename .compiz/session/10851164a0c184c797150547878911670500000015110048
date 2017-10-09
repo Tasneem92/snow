@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<compiz_session id="10851164a0c184c797150547878911670500000015110048">
+  <window id="10851164a0c184c797150547891917612200000015110050" title="Color Hex Color Codes - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="892" y="24" width="1019" height="1056"/>
+    <minimized/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+  <window id="10851164a0c184c797150547891917612200000015110050" title="HTML footer Tag - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="89" y="24" width="1104" height="1028"/>
+    <minimized/>
+    <workspace index="0"/>
+  </window>
+  <window id="10851164a0c184c797150547891917612200000015110050" title="The Marvels- Daily Feedback - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="65" y="25" width="1598" height="1056"/>
+    <minimized/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>

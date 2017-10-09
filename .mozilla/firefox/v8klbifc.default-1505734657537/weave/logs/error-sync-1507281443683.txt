@@ -1,0 +1,72 @@
+1507277843641	Sync.LogManager	DEBUG	Flushing file log
+1507277843650	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507277843651	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507277843651	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507277843651	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507277843651	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507277843651	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507277843651	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507277843651	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507277843651	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507277843652	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507277843652	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507277843652	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507277843652	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507277843652	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507277843667	browserwindow.syncui	DEBUG	observed: weave:ui:clear-error
+1507277843668	browserwindow.syncui	DEBUG	observed: weave:ui:clear-error
+1507277843668	browserwindow.syncui	DEBUG	observed: weave:ui:clear-error
+1507277843668	browserwindow.syncui	DEBUG	observed: weave:ui:clear-error
+1507277843668	browserwindow.syncui	DEBUG	observed: weave:ui:clear-error
+1507277843668	browserwindow.syncui	DEBUG	observed: weave:ui:clear-error
+1507277843668	browserwindow.syncui	DEBUG	observed: weave:ui:clear-error
+1507277843682	Sync.LogManager	DEBUG	Log cleanup threshold time: 1506413843681
+1507277843994	Sync.LogManager	DEBUG	Done deleting files.
+1507281443632	Sync.Service	DEBUG	User-Agent: Firefox/54.0 (Linux x86_64) FxSync/1.56.0.20170612122310.desktop
+1507281443632	Sync.Service	INFO	Starting sync at 2017-10-06 12:17:23 in browser session wpdzT3jDnKS4
+1507281443634	Sync.Service	DEBUG	In sync: should login.
+1507281443636	browserwindow.syncui	DEBUG	observed: weave:service:login:start
+1507281443640	browserwindow.syncui	DEBUG	observed: weave:service:login:start
+1507281443642	browserwindow.syncui	DEBUG	observed: weave:service:login:start
+1507281443644	browserwindow.syncui	DEBUG	observed: weave:service:login:start
+1507281443646	browserwindow.syncui	DEBUG	observed: weave:service:login:start
+1507281443648	browserwindow.syncui	DEBUG	observed: weave:service:login:start
+1507281443651	browserwindow.syncui	DEBUG	observed: weave:service:login:start
+1507281443654	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1507281443655	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1507281443656	browserwindow.syncui	DEBUG	observed: weave:service:login:error
+1507281443656	browserwindow.syncui	DEBUG	onLoginError: login=error.login.reason.no_username, sync=success.sync
+1507281443657	browserwindow.syncui	DEBUG	observed: weave:service:login:error
+1507281443658	browserwindow.syncui	DEBUG	onLoginError: login=error.login.reason.no_username, sync=success.sync
+1507281443660	browserwindow.syncui	DEBUG	observed: weave:service:login:error
+1507281443660	browserwindow.syncui	DEBUG	onLoginError: login=error.login.reason.no_username, sync=success.sync
+1507281443660	browserwindow.syncui	DEBUG	observed: weave:service:login:error
+1507281443660	browserwindow.syncui	DEBUG	onLoginError: login=error.login.reason.no_username, sync=success.sync
+1507281443664	browserwindow.syncui	DEBUG	observed: weave:service:login:error
+1507281443664	browserwindow.syncui	DEBUG	onLoginError: login=error.login.reason.no_username, sync=success.sync
+1507281443665	browserwindow.syncui	DEBUG	observed: weave:service:login:error
+1507281443665	browserwindow.syncui	DEBUG	onLoginError: login=error.login.reason.no_username, sync=success.sync
+1507281443666	browserwindow.syncui	DEBUG	observed: weave:service:login:error
+1507281443666	browserwindow.syncui	DEBUG	onLoginError: login=error.login.reason.no_username, sync=success.sync
+1507281443667	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1507281443668	Sync.SyncScheduler	DEBUG	Next sync in 3600000 ms.
+1507281443668	Sync.ErrorHandler	ERROR	Sync encountered a login error
+1507281443669	Sync.Service	DEBUG	Exception calling WrappedLock: Aborting login, client not configured.
+1507281443670	Sync.Service	DEBUG	Not syncing: login returned false.
+1507281443677	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507281443677	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507281443678	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507281443678	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507281443678	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507281443679	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507281443679	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507281443680	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507281443680	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507281443680	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507281443680	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507281443681	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507281443681	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507281443682	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1507281443682	Sync.ErrorHandler	DEBUG	Addons installed: 2
+1507281443682	Sync.ErrorHandler	DEBUG	 - Ubuntu Modifications, version 3.2, id ubufox@ubuntu.com
+1507281443683	Sync.ErrorHandler	DEBUG	 - ruler, version 0.3.0, id {b1355a29-9265-4b5e-a3ad-e9d61265d5ac}

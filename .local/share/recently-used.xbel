@@ -1,0 +1,2585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///tmp/mozilla_tasneem0/google-chrome-stable_current_amd64.deb" added="2017-09-11T10:58:38Z" modified="2017-09-11T11:00:38Z" visited="2017-09-11T10:58:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-11T11:00:38Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/Day%20%202" added="2017-09-11T13:43:55Z" modified="2017-09-11T13:43:55Z" visited="2017-09-11T13:43:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-09-11T13:43:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/Day%20%202.odt" added="2017-09-11T13:43:56Z" modified="2017-09-17T09:34:27Z" visited="2017-09-11T13:43:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-09-17T09:34:27Z" count="10"/>
+          <bookmark:application name="nautilus" exec="&apos;libreoffice --writer %U&apos;" modified="2017-09-12T20:03:31Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_tasneem0/slack-desktop-2.8.0-amd64.deb" added="2017-09-12T07:31:13Z" modified="2017-09-12T11:10:03Z" visited="2017-09-12T07:31:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-12T11:10:03Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Downloads/1.txt" added="2017-09-12T07:33:32Z" modified="2017-09-12T19:57:51Z" visited="2017-09-12T07:33:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-12T07:33:32Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-12T19:57:51Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/Screenshot%20from%202017-09-12%2015-30-27.png" added="2017-09-12T12:30:38Z" modified="2017-09-12T12:31:12Z" visited="2017-09-12T12:30:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2017-09-12T12:30:52Z" count="2"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-12T12:31:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/Screenshot%20from%202017-09-12%2021-18-37.png" added="2017-09-12T18:18:59Z" modified="2017-09-12T18:19:06Z" visited="2017-09-12T18:18:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2017-09-12T18:18:59Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-12T18:19:06Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/Untitled%201" added="2017-09-12T20:00:07Z" modified="2017-09-12T20:00:07Z" visited="2017-09-12T20:00:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-09-12T20:00:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/Untitled%201.odt" added="2017-09-12T20:00:08Z" modified="2017-09-12T20:03:09Z" visited="2017-09-12T20:00:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-09-12T20:03:09Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/documents" added="2017-09-12T20:03:00Z" modified="2017-09-12T20:03:00Z" visited="2017-09-12T20:03:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-12T20:03:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/Day%203%20CMD.odt" added="2017-09-12T20:04:20Z" modified="2017-09-19T08:45:26Z" visited="2017-09-12T20:04:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;libreoffice --writer %U&apos;" modified="2017-09-13T06:27:43Z" count="4"/>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-09-19T08:45:26Z" count="99"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-17T09:36:17Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/tasneem.html" added="2017-09-13T07:12:31Z" modified="2017-09-13T07:20:15Z" visited="2017-09-13T07:12:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-09-13T07:12:31Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-13T07:20:15Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/tasneem.html" added="2017-09-13T07:21:20Z" modified="2017-09-19T07:26:37Z" visited="2017-09-13T07:21:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-17T13:30:26Z" count="124"/>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2017-09-19T07:26:37Z" count="45"/>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-09-16T09:19:35Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/DailyForum.html" added="2017-09-13T10:52:49Z" modified="2017-09-13T11:19:16Z" visited="2017-09-13T10:52:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-13T11:19:16Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/Day%203%20CSS" added="2017-09-13T13:49:58Z" modified="2017-09-13T13:49:58Z" visited="2017-09-13T13:49:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-09-13T13:49:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/Day%203%20CSS.odt" added="2017-09-13T13:50:05Z" modified="2017-09-15T13:33:51Z" visited="2017-09-13T13:50:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-09-15T13:33:51Z" count="11"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/Day%204%20HTML" added="2017-09-14T00:33:42Z" modified="2017-09-14T00:33:42Z" visited="2017-09-14T00:33:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-09-14T00:33:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/Day%204%20HTML.odt" added="2017-09-14T00:33:43Z" modified="2017-09-18T07:04:40Z" visited="2017-09-14T00:33:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-09-18T07:04:40Z" count="20"/>
+          <bookmark:application name="nautilus" exec="&apos;libreoffice --writer %U&apos;" modified="2017-09-15T12:34:53Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/Day%204%20CSS.odt" added="2017-09-14T06:07:54Z" modified="2017-09-14T08:37:21Z" visited="2017-09-14T06:07:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-09-14T08:37:21Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/img_the_scream.jpg" added="2017-09-14T07:39:28Z" modified="2017-09-14T07:39:28Z" visited="2017-09-14T07:39:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-14T07:39:28Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/DAY%204" added="2017-09-14T08:22:28Z" modified="2017-09-14T08:22:28Z" visited="2017-09-14T08:22:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-09-14T08:22:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/DAY%204.odt" added="2017-09-14T08:22:28Z" modified="2017-09-14T08:22:28Z" visited="2017-09-14T08:22:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-09-14T08:22:28Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/12002078_1646920772258238_5302576780917886735_n.jpg" added="2017-09-14T09:00:52Z" modified="2017-09-14T09:00:53Z" visited="2017-09-14T09:00:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-14T09:00:53Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/The%20Marvels-%20Daily%20Feedback.html" added="2017-09-15T12:45:28Z" modified="2017-09-15T14:29:55Z" visited="2017-09-15T12:45:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-15T14:29:55Z" count="5"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-09-15T13:34:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/style.css" added="2017-09-15T13:09:18Z" modified="2017-09-26T08:44:44Z" visited="2017-09-15T13:09:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-26T08:44:44Z" count="318"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-09-17T06:38:09Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/Marvels.html" added="2017-09-15T14:35:45Z" modified="2017-09-26T09:28:29Z" visited="2017-09-15T14:35:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-26T09:28:29Z" count="99"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-09-26T09:27:14Z" count="57"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/Javascript.js" added="2017-09-16T10:45:36Z" modified="2017-09-28T16:50:40Z" visited="2017-09-16T10:45:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-28T16:50:40Z" count="15"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-09-16T13:02:41Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Downloads/HTTP.txt" added="2017-09-17T09:35:39Z" modified="2017-09-17T09:36:03Z" visited="2017-09-17T09:35:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-17T09:36:03Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/normalize.css" added="2017-09-17T09:56:21Z" modified="2017-09-17T09:56:22Z" visited="2017-09-17T09:56:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-17T09:56:22Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/Semantics/Marvels.html" added="2017-09-17T11:28:48Z" modified="2017-09-17T11:53:00Z" visited="2017-09-17T11:28:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-17T11:53:00Z" count="5"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-09-17T11:52:26Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/Semantics/style.css" added="2017-09-17T11:31:16Z" modified="2017-09-17T11:48:37Z" visited="2017-09-17T11:31:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-17T11:48:37Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/thankyou.html" added="2017-09-17T11:44:05Z" modified="2017-09-17T12:03:04Z" visited="2017-09-17T11:44:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-17T12:03:04Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/Semantics/thankyou.html" added="2017-09-17T11:46:49Z" modified="2017-09-17T13:30:07Z" visited="2017-09-17T11:46:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-09-17T12:15:07Z" count="4"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-17T13:30:07Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/Semantics/thankyou.css" added="2017-09-17T11:51:02Z" modified="2017-09-17T12:18:05Z" visited="2017-09-17T11:51:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-17T12:18:05Z" count="5"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-09-17T12:17:48Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/ex.html" added="2017-09-17T13:30:18Z" modified="2017-09-18T06:54:54Z" visited="2017-09-17T13:30:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-17T13:32:13Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2017-09-18T06:54:54Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Downloads/google-chrome-stable_current_amd64.deb" added="2017-09-17T13:35:31Z" modified="2017-09-17T13:35:31Z" visited="2017-09-17T13:35:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-17T13:35:31Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/17%20sep" added="2017-09-17T13:49:00Z" modified="2017-09-17T13:49:00Z" visited="2017-09-17T13:49:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-09-17T13:49:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/17%20sep.odt" added="2017-09-17T13:49:01Z" modified="2017-09-28T11:42:45Z" visited="2017-09-17T13:49:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-09-20T06:40:01Z" count="31"/>
+          <bookmark:application name="nautilus" exec="&apos;libreoffice --writer %U&apos;" modified="2017-09-20T06:39:55Z" count="3"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-28T11:42:45Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/test.html" added="2017-09-18T06:57:26Z" modified="2017-09-30T06:54:19Z" visited="2017-09-18T06:57:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2017-09-30T06:54:19Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/index.html" added="2017-09-18T06:57:35Z" modified="2017-09-30T06:54:54Z" visited="2017-09-18T06:57:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2017-09-30T06:54:54Z" count="5"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-26T08:43:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/Containing%20Floats/ex1.html" added="2017-09-18T07:05:03Z" modified="2017-09-19T07:25:06Z" visited="2017-09-18T07:05:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2017-09-19T07:25:06Z" count="3"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-19T07:20:42Z" count="19"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/Containing%20Floats/ex2.html" added="2017-09-18T07:37:39Z" modified="2017-09-19T07:26:13Z" visited="2017-09-18T07:37:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-18T11:20:04Z" count="22"/>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2017-09-19T07:26:13Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Downloads/setting-backgrounds-and-gradients.zip" added="2017-09-18T08:50:15Z" modified="2017-09-18T08:50:15Z" visited="2017-09-18T08:50:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-18T08:50:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Downloads/adding-media.zip" added="2017-09-18T09:48:29Z" modified="2017-09-20T07:21:54Z" visited="2017-09-18T09:48:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-18T09:48:29Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;file-roller %U&apos;" modified="2017-09-20T07:21:54Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-09-20T07:21:54Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/practice-1.png" added="2017-09-18T11:45:11Z" modified="2017-09-18T11:48:06Z" visited="2017-09-18T11:45:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-18T11:47:02Z" count="3"/>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-09-18T11:48:06Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/practice-2.png" added="2017-09-18T11:45:52Z" modified="2017-09-18T11:54:23Z" visited="2017-09-18T11:45:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-18T11:46:56Z" count="3"/>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-09-18T11:54:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/practice-3.png" added="2017-09-18T11:46:21Z" modified="2017-09-19T11:54:55Z" visited="2017-09-18T11:46:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-18T11:46:56Z" count="3"/>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-09-19T11:54:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/practice-4.png" added="2017-09-18T11:46:30Z" modified="2017-09-18T11:46:56Z" visited="2017-09-18T11:46:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-18T11:46:56Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/Homeworks/Practice-4/practice-4.html" added="2017-09-18T11:59:38Z" modified="2017-09-24T14:16:18Z" visited="2017-09-18T11:59:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-24T14:16:18Z" count="115"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-09-19T07:28:39Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/Homeworks/Practice-4/practice-4.css" added="2017-09-18T12:06:59Z" modified="2017-09-20T07:56:49Z" visited="2017-09-18T12:06:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-20T07:56:49Z" count="447"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Downloads/images.zip" added="2017-09-18T12:26:55Z" modified="2017-09-19T07:34:21Z" visited="2017-09-18T12:26:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-19T07:34:21Z" count="2"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-09-18T12:27:40Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Downloads" added="2017-09-18T12:27:55Z" modified="2017-09-20T07:23:25Z" visited="2017-09-18T12:27:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2017-09-20T07:23:25Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/schedule.jpg" added="2017-09-19T07:35:07Z" modified="2017-09-19T07:35:07Z" visited="2017-09-19T07:35:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-19T07:35:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/speakers.jpg" added="2017-09-19T07:35:17Z" modified="2017-09-19T07:35:17Z" visited="2017-09-19T07:35:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-19T07:35:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/venue.jpg" added="2017-09-19T07:35:26Z" modified="2017-09-19T07:35:26Z" visited="2017-09-19T07:35:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-19T07:35:26Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/Homeworks/Practice-3/speakers.html" added="2017-09-19T12:00:39Z" modified="2017-09-19T16:53:29Z" visited="2017-09-19T12:00:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-19T16:53:29Z" count="19"/>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2017-09-19T16:49:19Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/Homeworks/Practice-3/speakers.css" added="2017-09-19T12:00:45Z" modified="2017-09-19T16:53:29Z" visited="2017-09-19T12:00:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-09-19T12:00:45Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-19T16:53:29Z" count="118"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/Homeworks/Practice-2/venue.html" added="2017-09-19T16:54:42Z" modified="2017-09-20T07:58:27Z" visited="2017-09-19T16:54:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-20T07:08:54Z" count="68"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-09-20T07:58:27Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/Homeworks/Practice-1/register.css" added="2017-09-19T17:03:53Z" modified="2017-09-24T14:58:51Z" visited="2017-09-19T17:03:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-24T14:58:51Z" count="21"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-09-20T06:48:16Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/Homeworks/Practice-1/register.html" added="2017-09-19T17:04:23Z" modified="2017-09-28T16:45:17Z" visited="2017-09-19T17:04:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-24T15:02:20Z" count="22"/>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-09-28T16:45:17Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/Homeworks/Practice-2/venue.css" added="2017-09-19T17:15:26Z" modified="2017-09-20T07:58:27Z" visited="2017-09-19T17:15:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-20T07:40:55Z" count="132"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-09-20T07:58:27Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Downloads/adding-media(1).zip" added="2017-09-19T18:25:05Z" modified="2017-09-19T18:25:09Z" visited="2017-09-19T18:25:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-19T18:25:05Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-09-19T18:25:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/.cache/.fr-qatWst/adding-media/venue.html" added="2017-09-19T18:25:34Z" modified="2017-09-19T18:25:34Z" visited="2017-09-19T18:25:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-19T18:25:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/Homeworks/Practice-R/register.html" added="2017-09-20T06:55:38Z" modified="2017-09-20T07:01:09Z" visited="2017-09-20T06:55:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-20T07:01:09Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Downloads/adding-media/index.html" added="2017-09-20T07:24:36Z" modified="2017-09-20T07:24:36Z" visited="2017-09-20T07:24:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-20T07:24:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Downloads/adding-media/register.html" added="2017-09-20T07:24:48Z" modified="2017-09-20T07:24:48Z" visited="2017-09-20T07:24:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-20T07:24:48Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Downloads/adding-media/schedule.html" added="2017-09-20T07:24:58Z" modified="2017-09-20T07:24:58Z" visited="2017-09-20T07:24:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-20T07:24:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Downloads/adding-media/speakers.html" added="2017-09-20T07:25:08Z" modified="2017-09-20T07:25:08Z" visited="2017-09-20T07:25:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-20T07:25:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Downloads/adding-media/venue.html" added="2017-09-20T07:25:18Z" modified="2017-09-20T07:25:18Z" visited="2017-09-20T07:25:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-20T07:25:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/20%20Sep" added="2017-09-20T09:56:43Z" modified="2017-09-20T09:56:43Z" visited="2017-09-20T09:56:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-09-20T09:56:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/20%20Sep.odt" added="2017-09-20T09:56:44Z" modified="2017-10-01T18:27:13Z" visited="2017-09-20T09:56:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-01T18:27:13Z" count="46"/>
+          <bookmark:application name="nautilus" exec="&apos;libreoffice --writer %U&apos;" modified="2017-10-01T18:27:01Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/21586918_913181208821136_1884890717465435890_o.jpg" added="2017-09-24T07:07:18Z" modified="2017-09-24T07:07:20Z" visited="2017-09-24T07:07:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-24T07:07:20Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Downloads/repl.html" added="2017-09-24T07:52:34Z" modified="2017-09-24T07:52:34Z" visited="2017-09-24T07:52:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-24T07:52:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Downloads/twitter.png" added="2017-09-24T07:53:43Z" modified="2017-09-24T07:53:43Z" visited="2017-09-24T07:53:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-24T07:53:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Downloads/facebook.png" added="2017-09-24T07:53:56Z" modified="2017-09-24T07:53:56Z" visited="2017-09-24T07:53:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-24T07:53:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Downloads/google.png" added="2017-09-24T07:54:06Z" modified="2017-09-24T07:57:45Z" visited="2017-09-24T07:54:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-24T07:57:45Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Downloads/insta.png" added="2017-09-24T07:54:15Z" modified="2017-09-24T07:54:15Z" visited="2017-09-24T07:54:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-24T07:54:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/google.png" added="2017-09-24T07:55:09Z" modified="2017-09-24T07:56:31Z" visited="2017-09-24T07:55:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-09-24T07:56:31Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/insta.png" added="2017-09-24T07:55:21Z" modified="2017-09-24T07:55:21Z" visited="2017-09-24T07:55:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-09-24T07:55:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Downloads/image.png" added="2017-09-24T07:58:57Z" modified="2017-09-24T07:58:57Z" visited="2017-09-24T07:58:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-24T07:58:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/repl.html" added="2017-09-24T08:01:15Z" modified="2017-09-30T06:54:38Z" visited="2017-09-24T08:01:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-24T19:48:56Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2017-09-30T06:54:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/javascript/js.html" added="2017-09-24T08:45:32Z" modified="2017-09-28T11:36:58Z" visited="2017-09-24T08:45:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-25T13:20:56Z" count="72"/>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-09-28T11:36:58Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/javascript/js.js" added="2017-09-24T09:35:05Z" modified="2017-09-28T16:50:05Z" visited="2017-09-24T09:35:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-28T16:50:05Z" count="318"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-09-28T11:36:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/Homeworks/responsive/resp.css" added="2017-09-24T14:14:53Z" modified="2017-09-30T06:56:42Z" visited="2017-09-24T14:14:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-30T06:56:42Z" count="127"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/Homeworks/responsive/resp.html" added="2017-09-24T14:15:10Z" modified="2017-09-30T06:56:39Z" visited="2017-09-24T14:15:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-30T06:56:39Z" count="37"/>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2017-09-30T06:55:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/Homeworks/responsive/image.png" added="2017-09-24T14:24:14Z" modified="2017-09-24T14:24:14Z" visited="2017-09-24T14:24:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-09-24T14:24:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/1505916066646_c09ae7604eedb082e11b1ff19dfa94e7.png" added="2017-09-24T14:24:58Z" modified="2017-09-24T14:24:58Z" visited="2017-09-24T14:24:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-24T14:24:58Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/logoo-copy-1.png" added="2017-09-24T14:25:12Z" modified="2017-09-24T14:25:13Z" visited="2017-09-24T14:25:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-24T14:25:13Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/1505915923743_1c7052d5d0a3aa53d49da8138d991abb.png" added="2017-09-24T15:26:40Z" modified="2017-09-24T15:26:41Z" visited="2017-09-24T15:26:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-24T15:26:41Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/JAVASCRIPT%2025%20SEP" added="2017-09-25T07:08:16Z" modified="2017-09-25T07:08:16Z" visited="2017-09-25T07:08:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-09-25T07:08:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/JAVASCRIPT%2025%20SEP.odt" added="2017-09-25T07:08:17Z" modified="2017-09-28T16:39:10Z" visited="2017-09-25T07:08:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-09-28T16:39:10Z" count="10"/>
+          <bookmark:application name="nautilus" exec="&apos;libreoffice --writer %U&apos;" modified="2017-09-26T07:29:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/manunited.png" added="2017-09-25T07:19:21Z" modified="2017-09-25T07:19:22Z" visited="2017-09-25T07:19:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-25T07:19:22Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/js.html" added="2017-09-25T11:41:37Z" modified="2017-09-25T11:57:09Z" visited="2017-09-25T11:41:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-25T11:57:09Z" count="5"/>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2017-09-25T11:56:40Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/js.js" added="2017-09-25T11:42:00Z" modified="2017-09-25T11:57:22Z" visited="2017-09-25T11:42:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-25T11:57:22Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Downloads/google-chrome-stable_current_amd64(1).deb" added="2017-09-25T13:10:48Z" modified="2017-09-25T13:10:48Z" visited="2017-09-25T13:10:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-25T13:10:48Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/marvels.js" added="2017-09-26T08:57:59Z" modified="2017-09-26T09:25:56Z" visited="2017-09-26T08:57:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-09-26T08:57:59Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-26T09:25:56Z" count="14"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/JAVASCRIPTS/js.js" added="2017-09-26T08:59:54Z" modified="2017-09-28T16:50:15Z" visited="2017-09-26T08:59:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-28T16:50:15Z" count="7"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-09-28T08:29:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/placeholder/ph.html" added="2017-09-26T09:28:16Z" modified="2017-10-06T05:51:12Z" visited="2017-09-26T09:28:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-06T05:51:12Z" count="124"/>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-10-06T05:50:58Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/placeholder/ph.js" added="2017-09-26T09:33:52Z" modified="2017-10-06T05:51:06Z" visited="2017-09-26T09:33:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-06T05:51:06Z" count="119"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-09-28T16:51:38Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/21949995_1328023393975259_6447134796952851167_o.jpg" added="2017-09-26T16:26:11Z" modified="2017-09-26T16:26:12Z" visited="2017-09-26T16:26:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:26:12Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/21949975_1328023513975247_7231849004128232680_o.jpg" added="2017-09-26T16:26:18Z" modified="2017-09-26T16:26:18Z" visited="2017-09-26T16:26:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:26:18Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/21768847_1328023447308587_8033874174425319366_o.jpg" added="2017-09-26T16:26:27Z" modified="2017-09-26T16:26:27Z" visited="2017-09-26T16:26:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:26:27Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/22045967_1328023473975251_4860850759569887288_n.jpg" added="2017-09-26T16:26:33Z" modified="2017-09-26T16:26:33Z" visited="2017-09-26T16:26:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:26:33Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/21765140_1328023543975244_1332357996446425741_n.jpg" added="2017-09-26T16:26:38Z" modified="2017-09-26T16:54:40Z" visited="2017-09-26T16:26:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:26:38Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-09-26T16:54:40Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/21768714_1328023577308574_1270737229843019974_o.jpg" added="2017-09-26T16:26:57Z" modified="2017-09-26T16:26:58Z" visited="2017-09-26T16:26:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:26:58Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/21949823_1328023477308584_8110863813516905498_o.jpg" added="2017-09-26T16:27:02Z" modified="2017-09-26T16:27:04Z" visited="2017-09-26T16:27:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:27:04Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/21992998_1328024043975194_6815574783385460777_o.jpg" added="2017-09-26T16:27:08Z" modified="2017-09-26T16:27:08Z" visited="2017-09-26T16:27:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:27:08Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/21950001_1328023650641900_6468872877768328035_o.jpg" added="2017-09-26T16:27:17Z" modified="2017-09-26T16:27:18Z" visited="2017-09-26T16:27:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:27:18Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/21949844_1328023813975217_4132408894163533291_o.jpg" added="2017-09-26T16:27:30Z" modified="2017-09-26T16:27:31Z" visited="2017-09-26T16:27:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:27:31Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/22047742_1328024177308514_8410488103093923651_o.jpg" added="2017-09-26T16:27:36Z" modified="2017-09-26T16:27:36Z" visited="2017-09-26T16:27:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:27:36Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/21768730_1328023760641889_7404331405868025072_o.jpg" added="2017-09-26T16:27:40Z" modified="2017-09-26T16:27:43Z" visited="2017-09-26T16:27:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:27:43Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/21950763_1328024110641854_3210243542368344020_o.jpg" added="2017-09-26T16:27:49Z" modified="2017-09-26T16:27:50Z" visited="2017-09-26T16:27:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:27:50Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/22047744_1328024190641846_1878907838695165016_o.jpg" added="2017-09-26T16:27:58Z" modified="2017-09-26T16:27:59Z" visited="2017-09-26T16:27:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:27:59Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/21768900_1328023867308545_8559918190951451429_o.jpg" added="2017-09-26T16:28:06Z" modified="2017-09-26T16:28:07Z" visited="2017-09-26T16:28:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:28:07Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/21768837_1328024243975174_6342129648854184588_o.jpg" added="2017-09-26T16:28:11Z" modified="2017-09-26T16:28:14Z" visited="2017-09-26T16:28:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:28:14Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/21994452_1328023767308555_321788056735156251_o.jpg" added="2017-09-26T16:28:18Z" modified="2017-09-26T16:28:20Z" visited="2017-09-26T16:28:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:28:20Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/21950969_1328024330641832_8786043900852384782_o.jpg" added="2017-09-26T16:28:23Z" modified="2017-09-26T16:28:24Z" visited="2017-09-26T16:28:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:28:24Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/21992790_1328024017308530_8621916384237289279_o.jpg" added="2017-09-26T16:28:28Z" modified="2017-09-26T16:28:29Z" visited="2017-09-26T16:28:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:28:29Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/21768903_1328025493975049_4273771369486564632_o.jpg" added="2017-09-26T16:28:46Z" modified="2017-09-26T16:28:50Z" visited="2017-09-26T16:28:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:28:50Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/21768924_1328024257308506_7012991247099274922_o.jpg" added="2017-09-26T16:28:56Z" modified="2017-09-26T16:28:57Z" visited="2017-09-26T16:28:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:28:57Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/22048056_1328024413975157_3682370241492292459_o.jpg" added="2017-09-26T16:29:01Z" modified="2017-09-26T16:29:02Z" visited="2017-09-26T16:29:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:29:02Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/21949865_1328024860641779_6853080733940214992_o.jpg" added="2017-09-26T16:29:11Z" modified="2017-09-26T16:29:12Z" visited="2017-09-26T16:29:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:29:12Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/21950212_1328024563975142_783327676285163072_o.jpg" added="2017-09-26T16:29:18Z" modified="2017-09-26T16:29:21Z" visited="2017-09-26T16:29:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:29:21Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/21765857_1328025427308389_3970506191244571994_o.jpg" added="2017-09-26T16:29:27Z" modified="2017-09-26T16:29:28Z" visited="2017-09-26T16:29:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:29:28Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/21768602_1328024543975144_3687347459389078817_o.jpg" added="2017-09-26T16:29:35Z" modified="2017-09-26T16:29:36Z" visited="2017-09-26T16:29:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:29:36Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/21950682_1328025317308400_7760883505919940765_o.jpg" added="2017-09-26T16:29:55Z" modified="2017-09-26T16:29:56Z" visited="2017-09-26T16:29:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:29:56Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/21950746_1328025780641687_8402367214746934980_o.jpg" added="2017-09-26T16:30:27Z" modified="2017-09-26T16:30:28Z" visited="2017-09-26T16:30:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:30:28Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/21950734_1328025580641707_748352716373980011_o.jpg" added="2017-09-26T16:30:34Z" modified="2017-09-26T16:30:35Z" visited="2017-09-26T16:30:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:30:35Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/21993131_1328025657308366_929373665642803423_o.jpg" added="2017-09-26T16:30:46Z" modified="2017-09-26T16:30:47Z" visited="2017-09-26T16:30:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:30:47Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/22042218_1328025757308356_2596248163970458067_o.jpg" added="2017-09-26T16:31:44Z" modified="2017-09-26T16:31:45Z" visited="2017-09-26T16:31:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:31:45Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/21992741_1328026107308321_1763832982601971877_o.jpg" added="2017-09-26T16:31:52Z" modified="2017-09-26T16:31:52Z" visited="2017-09-26T16:31:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:31:52Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/21768934_1328025990641666_5679091879558185869_o.jpg" added="2017-09-26T16:31:57Z" modified="2017-09-26T16:31:58Z" visited="2017-09-26T16:31:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:31:58Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/21768725_1328026077308324_5237145724041755605_o.jpg" added="2017-09-26T16:32:14Z" modified="2017-09-26T16:32:17Z" visited="2017-09-26T16:32:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:32:17Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/Screenshot%20from%202017-09-26%2019-37-13.png" added="2017-09-26T16:37:15Z" modified="2017-09-26T16:37:33Z" visited="2017-09-26T16:37:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2017-09-26T16:37:15Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:37:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/21950832_1328029190641346_3932371911824076055_o.jpg" added="2017-09-26T16:42:00Z" modified="2017-09-26T16:42:02Z" visited="2017-09-26T16:42:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:42:02Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/21949931_1328029047308027_1819958195192454925_o.jpg" added="2017-09-26T16:42:05Z" modified="2017-09-26T16:42:09Z" visited="2017-09-26T16:42:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:42:09Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/21768674_1328029523974646_7339484916492973521_o.jpg" added="2017-09-26T16:42:16Z" modified="2017-09-26T16:42:17Z" visited="2017-09-26T16:42:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:42:17Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/21768603_1328026850641580_6173203163969104935_o.jpg" added="2017-09-26T16:42:31Z" modified="2017-09-26T16:42:31Z" visited="2017-09-26T16:42:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:42:31Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/22045696_1328027453974853_8666956068044724550_n.jpg" added="2017-09-26T16:43:17Z" modified="2017-09-26T16:43:19Z" visited="2017-09-26T16:43:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:43:19Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/21768989_1328027280641537_3100735858883880358_o.jpg" added="2017-09-26T16:46:21Z" modified="2017-09-26T16:56:52Z" visited="2017-09-26T16:46:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:56:52Z" count="5"/>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-09-26T16:56:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/21767924_1328027653974833_2199146815973917546_n.jpg" added="2017-09-26T16:47:19Z" modified="2017-09-26T16:47:20Z" visited="2017-09-26T16:47:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:47:20Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/21766510_1328028913974707_666823852550187115_n.jpg" added="2017-09-26T16:47:24Z" modified="2017-09-26T16:47:25Z" visited="2017-09-26T16:47:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:47:25Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/21994051_1328029683974630_1069775895459028506_o.jpg" added="2017-09-26T16:49:15Z" modified="2017-09-26T16:49:16Z" visited="2017-09-26T16:49:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:49:16Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/21951056_1328029527307979_6059540598644373437_o.jpg" added="2017-09-26T16:49:30Z" modified="2017-09-26T16:49:31Z" visited="2017-09-26T16:49:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:49:31Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/21949753_1328029600641305_2065869985357681880_o.jpg" added="2017-09-26T16:49:38Z" modified="2017-09-26T16:49:39Z" visited="2017-09-26T16:49:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:49:39Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/21951018_1328029443974654_4164759664349365668_o.jpg" added="2017-09-26T16:50:00Z" modified="2017-09-26T16:56:00Z" visited="2017-09-26T16:50:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-26T16:56:00Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/JAVASCRIPTS/js.html" added="2017-09-27T11:58:02Z" modified="2017-09-28T11:35:58Z" visited="2017-09-27T11:58:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-09-28T08:26:22Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-28T11:35:58Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/javascript%20examples" added="2017-09-27T12:33:20Z" modified="2017-09-27T12:33:20Z" visited="2017-09-27T12:33:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-09-27T12:33:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/javascript%20examples.odt" added="2017-09-27T12:33:21Z" modified="2017-10-03T09:27:55Z" visited="2017-09-27T12:33:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-03T09:27:55Z" count="18"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/ph.js" added="2017-09-28T11:42:29Z" modified="2017-09-28T11:42:45Z" visited="2017-09-28T11:42:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-28T11:42:45Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/ph.html" added="2017-09-28T11:42:29Z" modified="2017-09-28T11:42:45Z" visited="2017-09-28T11:42:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-28T11:42:45Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/5976554-animals-images.jpg" added="2017-09-28T11:53:36Z" modified="2017-09-28T11:53:37Z" visited="2017-09-28T11:53:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-28T11:53:37Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/1506598947287_82dc17ae3e6c50241d3514327e072802.jpeg" added="2017-09-28T12:07:47Z" modified="2017-09-28T12:20:00Z" visited="2017-09-28T12:07:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-28T12:20:00Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/1506600222109_7454f2168a3c024b887b38c91671db58.png" added="2017-09-28T12:19:12Z" modified="2017-09-28T12:19:13Z" visited="2017-09-28T12:19:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-28T12:19:13Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/snow/snow.html" added="2017-09-30T07:13:41Z" modified="2017-10-08T13:56:22Z" visited="2017-09-30T07:13:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-08T13:56:22Z" count="767"/>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2017-10-06T18:33:38Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/snow/snow.css" added="2017-09-30T07:17:36Z" modified="2017-10-06T12:56:47Z" visited="2017-09-30T07:17:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-06T12:56:47Z" count="507"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/snow/snow.js" added="2017-09-30T07:17:39Z" modified="2017-10-01T13:15:44Z" visited="2017-09-30T07:17:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-01T13:15:44Z" count="32"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/snow.png" added="2017-09-30T07:31:59Z" modified="2017-09-30T07:32:00Z" visited="2017-09-30T07:32:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-30T07:32:00Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/snow2.png" added="2017-09-30T07:32:19Z" modified="2017-09-30T07:32:20Z" visited="2017-09-30T07:32:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-30T07:32:20Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/signature.png" added="2017-09-30T07:32:43Z" modified="2017-09-30T07:32:44Z" visited="2017-09-30T07:32:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-30T07:32:44Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/15-0012437.jpg" added="2017-09-30T08:26:50Z" modified="2017-09-30T08:26:51Z" visited="2017-09-30T08:26:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-30T08:26:51Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/Restaurants" added="2017-09-30T09:42:09Z" modified="2017-09-30T09:42:09Z" visited="2017-09-30T09:42:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-09-30T09:42:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/Restaurants.odt" added="2017-09-30T09:42:10Z" modified="2017-10-01T18:26:46Z" visited="2017-09-30T09:42:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-01T18:26:46Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/162f2488ce91e1e904317a3742d0702b_desc.jpg" added="2017-09-30T13:03:54Z" modified="2017-09-30T13:10:41Z" visited="2017-09-30T13:03:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-30T13:10:41Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/yoga2.jpg" added="2017-09-30T13:07:16Z" modified="2017-09-30T13:07:17Z" visited="2017-09-30T13:07:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-30T13:07:17Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/dropdown%20menu%20bootstrap" added="2017-10-01T11:57:23Z" modified="2017-10-01T13:20:20Z" visited="2017-10-01T11:57:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-01T13:20:20Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/about%20class.png" added="2017-10-01T12:36:38Z" modified="2017-10-01T12:36:38Z" visited="2017-10-01T12:36:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2017-10-01T12:36:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/contact.png" added="2017-10-01T12:37:10Z" modified="2017-10-01T12:37:10Z" visited="2017-10-01T12:37:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2017-10-01T12:37:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/portfolio.png" added="2017-10-01T12:37:30Z" modified="2017-10-01T12:37:30Z" visited="2017-10-01T12:37:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2017-10-01T12:37:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/snow-bg.jpg" added="2017-10-01T13:19:18Z" modified="2017-10-01T13:19:19Z" visited="2017-10-01T13:19:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-01T13:19:19Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Downloads/font-awesome-4.7.0.zip" added="2017-10-01T19:24:40Z" modified="2017-10-01T19:31:04Z" visited="2017-10-01T19:24:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-01T19:24:40Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-10-01T19:31:04Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/.cache/.fr-HZu9IG/font-awesome-4.7.0/css/font-awesome.css" added="2017-10-01T19:25:53Z" modified="2017-10-01T19:25:53Z" visited="2017-10-01T19:25:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-01T19:25:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/snow" added="2017-10-01T19:31:31Z" modified="2017-10-01T19:31:31Z" visited="2017-10-01T19:31:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2017-10-01T19:31:31Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/JSobjects/js.js" added="2017-10-02T07:07:25Z" modified="2017-10-03T09:16:59Z" visited="2017-10-02T07:07:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-03T09:16:59Z" count="117"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/JSobjects/js.html" added="2017-10-02T07:09:48Z" modified="2017-10-02T07:20:09Z" visited="2017-10-02T07:09:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-02T07:20:09Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/Untitled%202" added="2017-10-02T09:47:37Z" modified="2017-10-02T09:47:37Z" visited="2017-10-02T09:47:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-02T09:47:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/Untitled%202.odt" added="2017-10-02T09:47:39Z" modified="2017-10-02T12:02:53Z" visited="2017-10-02T09:47:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-02T12:02:53Z" count="16"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/project" added="2017-10-02T09:48:01Z" modified="2017-10-02T09:48:01Z" visited="2017-10-02T09:48:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-02T09:48:01Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/project.odt" added="2017-10-02T09:48:02Z" modified="2017-10-02T09:48:13Z" visited="2017-10-02T09:48:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-02T09:48:13Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/project" added="2017-10-02T09:48:13Z" modified="2017-10-02T09:48:13Z" visited="2017-10-02T09:48:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-02T09:48:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/project.odt" added="2017-10-02T09:48:13Z" modified="2017-10-02T09:48:17Z" visited="2017-10-02T09:48:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-02T09:48:17Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/snow/snow-bg.jpg" added="2017-10-02T11:07:14Z" modified="2017-10-03T13:15:19Z" visited="2017-10-02T11:07:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-03T13:15:19Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/1*bcZz-qb_DNpvrNNwQBhQmQ.jpeg" added="2017-10-03T08:39:35Z" modified="2017-10-03T08:44:10Z" visited="2017-10-03T08:39:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-03T08:44:10Z" count="3"/>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-10-03T08:40:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/Untitled%203" added="2017-10-03T09:01:00Z" modified="2017-10-03T09:01:00Z" visited="2017-10-03T09:01:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-03T09:01:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/Untitled%203.odt" added="2017-10-03T09:01:01Z" modified="2017-10-03T09:01:01Z" visited="2017-10-03T09:01:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-03T09:01:01Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/Screenshot%20from%202017-10-03%2012-06-26.png" added="2017-10-03T09:06:41Z" modified="2017-10-03T09:07:02Z" visited="2017-10-03T09:06:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2017-10-03T09:06:41Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-03T09:07:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/References" added="2017-10-03T09:27:31Z" modified="2017-10-03T09:27:31Z" visited="2017-10-03T09:27:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-03T09:27:31Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Downloads/logo.png" added="2017-10-03T09:34:36Z" modified="2017-10-03T09:34:36Z" visited="2017-10-03T09:34:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-03T09:34:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/References/project.odt" added="2017-10-03T09:44:14Z" modified="2017-10-04T08:47:31Z" visited="2017-10-03T09:44:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-04T08:47:31Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/References/1505915923743_1c7052d5d0a3aa53d49da8138d991abb.png" added="2017-10-03T11:59:27Z" modified="2017-10-03T11:59:27Z" visited="2017-10-03T11:59:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-10-03T11:59:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/References/addition%20snow" added="2017-10-03T12:28:01Z" modified="2017-10-03T12:28:02Z" visited="2017-10-03T12:28:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-03T12:28:02Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/snow/icons-bg.jpeg" added="2017-10-03T13:17:40Z" modified="2017-10-04T06:39:41Z" visited="2017-10-03T13:17:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-03T13:17:41Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-10-04T06:39:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/Selection_001.png" added="2017-10-04T06:34:31Z" modified="2017-10-05T11:45:29Z" visited="2017-10-04T06:34:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="&apos;shutter %u&apos;" modified="2017-10-05T11:45:29Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/Selection_002.png" added="2017-10-04T06:36:26Z" modified="2017-10-05T11:47:26Z" visited="2017-10-04T06:36:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="&apos;shutter %u&apos;" modified="2017-10-05T11:47:26Z" count="3"/>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-10-04T12:06:19Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/Selection_003.png" added="2017-10-04T06:36:58Z" modified="2017-10-05T11:48:51Z" visited="2017-10-04T06:36:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="&apos;shutter %u&apos;" modified="2017-10-05T11:48:51Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/Selection_004.png" added="2017-10-04T06:37:13Z" modified="2017-10-05T11:50:54Z" visited="2017-10-04T06:37:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="&apos;shutter %u&apos;" modified="2017-10-05T11:50:54Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/Selection_005.png" added="2017-10-04T06:37:39Z" modified="2017-10-05T11:51:17Z" visited="2017-10-04T06:37:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="&apos;shutter %u&apos;" modified="2017-10-05T11:51:17Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/Selection_006.png" added="2017-10-04T06:37:53Z" modified="2017-10-05T11:52:12Z" visited="2017-10-04T06:37:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="&apos;shutter %u&apos;" modified="2017-10-05T11:52:12Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/Selection_007.png" added="2017-10-04T06:38:08Z" modified="2017-10-05T11:52:57Z" visited="2017-10-04T06:38:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="&apos;shutter %u&apos;" modified="2017-10-05T11:52:57Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/Selection_008.png" added="2017-10-04T06:38:30Z" modified="2017-10-04T06:38:30Z" visited="2017-10-04T06:38:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="&apos;shutter %u&apos;" modified="2017-10-04T06:38:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Pictures/Selection_009.png" added="2017-10-04T06:38:45Z" modified="2017-10-04T06:38:45Z" visited="2017-10-04T06:38:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="&apos;shutter %u&apos;" modified="2017-10-04T06:38:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/snow/Selection_007.png" added="2017-10-04T11:32:50Z" modified="2017-10-04T11:51:05Z" visited="2017-10-04T11:32:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;shutter %F&apos;" modified="2017-10-04T11:50:59Z" count="2"/>
+          <bookmark:application name="shutter" exec="&apos;shutter %u&apos;" modified="2017-10-04T11:51:05Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/snow/Selection_009.png" added="2017-10-04T11:32:58Z" modified="2017-10-04T11:32:58Z" visited="2017-10-04T11:32:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-10-04T11:32:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/snow/signature.png" added="2017-10-04T11:45:08Z" modified="2017-10-04T11:45:08Z" visited="2017-10-04T11:45:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-10-04T11:45:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/snow/Selection_002.png" added="2017-10-04T11:46:33Z" modified="2017-10-04T11:50:41Z" visited="2017-10-04T11:46:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;shutter %F&apos;" modified="2017-10-04T11:50:41Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/snow/Untitled%20Folder/Selection_002.png" added="2017-10-04T12:02:17Z" modified="2017-10-04T12:02:17Z" visited="2017-10-04T12:02:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="&apos;shutter %u&apos;" modified="2017-10-04T12:02:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/snow/Untitled%20Folder/Selection_005.png" added="2017-10-04T12:03:38Z" modified="2017-10-04T12:03:38Z" visited="2017-10-04T12:03:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="&apos;shutter %u&apos;" modified="2017-10-04T12:03:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/snow/Selection_008.png" added="2017-10-04T12:11:49Z" modified="2017-10-04T12:11:49Z" visited="2017-10-04T12:11:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-10-04T12:11:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/snow/Selection_001.png" added="2017-10-04T12:11:57Z" modified="2017-10-04T12:11:57Z" visited="2017-10-04T12:11:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-10-04T12:11:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/copy" added="2017-10-05T07:16:16Z" modified="2017-10-05T07:16:16Z" visited="2017-10-05T07:16:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-05T07:16:16Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/snow/s_001.png" added="2017-10-05T11:57:14Z" modified="2017-10-05T12:05:56Z" visited="2017-10-05T11:57:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-10-05T12:05:56Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/.cache/shutter/unsaved/Selection_006.png" added="2017-10-05T12:02:43Z" modified="2017-10-05T12:02:43Z" visited="2017-10-05T12:02:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-10-05T12:02:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/.cache/shutter/unsaved/Selection_003.png" added="2017-10-05T12:02:59Z" modified="2017-10-05T12:03:20Z" visited="2017-10-05T12:02:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-10-05T12:03:20Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/.cache/shutter/unsaved/Selection_001.png" added="2017-10-05T12:03:33Z" modified="2017-10-05T12:03:57Z" visited="2017-10-05T12:03:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-10-05T12:03:57Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/snow/s_002.png" added="2017-10-05T12:06:06Z" modified="2017-10-05T12:06:06Z" visited="2017-10-05T12:06:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-10-05T12:06:06Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/snow/s_003" added="2017-10-05T12:06:14Z" modified="2017-10-05T12:06:14Z" visited="2017-10-05T12:06:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-10-05T12:06:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/snow/s_005.png" added="2017-10-05T12:06:21Z" modified="2017-10-05T12:06:21Z" visited="2017-10-05T12:06:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-10-05T12:06:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/snow/s_0010.png" added="2017-10-05T12:06:44Z" modified="2017-10-05T12:06:44Z" visited="2017-10-05T12:06:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-10-05T12:06:44Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/snow/authentic.png" added="2017-10-05T12:07:11Z" modified="2017-10-05T12:08:20Z" visited="2017-10-05T12:07:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-10-05T12:08:20Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Downloads/HAMBURGER.png" added="2017-10-05T13:01:18Z" modified="2017-10-05T13:01:18Z" visited="2017-10-05T13:01:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-05T13:01:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Downloads/HANDMADE.png" added="2017-10-05T13:01:23Z" modified="2017-10-05T13:01:23Z" visited="2017-10-05T13:01:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-05T13:01:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Downloads/MCQUEEN.png" added="2017-10-05T13:01:30Z" modified="2017-10-05T13:01:30Z" visited="2017-10-05T13:01:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-05T13:01:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Downloads/Pacific.png" added="2017-10-05T13:01:35Z" modified="2017-10-05T13:01:35Z" visited="2017-10-05T13:01:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-05T13:01:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Downloads/RANSOM.png" added="2017-10-05T13:01:40Z" modified="2017-10-05T13:01:40Z" visited="2017-10-05T13:01:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-05T13:01:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/snow/fog.jpg" added="2017-10-06T06:35:28Z" modified="2017-10-06T06:36:32Z" visited="2017-10-06T06:35:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-06T06:36:32Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/snow/dolphin.jpg" added="2017-10-06T06:37:23Z" modified="2017-10-06T06:37:23Z" visited="2017-10-06T06:37:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-06T06:37:23Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/snow/beach.jpg" added="2017-10-06T06:40:01Z" modified="2017-10-06T12:13:49Z" visited="2017-10-06T06:40:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-06T06:40:02Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-10-06T12:13:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/snow/rock.jpg" added="2017-10-06T08:08:16Z" modified="2017-10-06T08:08:18Z" visited="2017-10-06T08:08:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-06T08:08:18Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/snow/mountain2.jpg" added="2017-10-06T09:49:51Z" modified="2017-10-06T09:49:52Z" visited="2017-10-06T09:49:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-06T09:49:52Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Downloads/IMG_20171007_190821.jpg" added="2017-10-07T16:13:12Z" modified="2017-10-07T16:13:54Z" visited="2017-10-07T16:13:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-07T16:13:54Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Downloads/IMG_20171007_190834.jpg" added="2017-10-07T16:13:26Z" modified="2017-10-07T16:13:54Z" visited="2017-10-07T16:13:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-07T16:13:54Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/red-quinoa2.jpg" added="2017-10-07T17:02:45Z" modified="2017-10-07T17:02:47Z" visited="2017-10-07T17:02:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-07T17:02:47Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/0089703400226_A.jpeg" added="2017-10-07T17:02:56Z" modified="2017-10-07T17:02:57Z" visited="2017-10-07T17:02:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-07T17:02:57Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Desktop/Mediterranean-Recipe-of-Quinoa-Salad.jpg" added="2017-10-07T17:34:08Z" modified="2017-10-07T17:34:11Z" visited="2017-10-07T17:34:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-07T17:34:11Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasneem/Downloads/MyReference.odt" added="2017-10-09T06:38:37Z" modified="2017-10-09T06:38:59Z" visited="2017-10-09T06:38:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-09T06:38:37Z" count="1"/>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-10-09T06:38:59Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

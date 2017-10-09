@@ -1,0 +1,48 @@
+1505635803314	Sync.Service	INFO	Loading Weave 1.56.0
+1505635803317	Sync.Engine.Clients	DEBUG	Engine initialized
+1505635803319	Sync.Engine.Clients	DEBUG	Resetting clients last sync time
+1505635803325	Sync.Engine.Bookmarks	DEBUG	Engine initialized
+1505635803328	Sync.Engine.Forms	DEBUG	Engine initialized
+1505635803331	Sync.Engine.History	DEBUG	Engine initialized
+1505635803335	Sync.Engine.Passwords	DEBUG	Engine initialized
+1505635803338	Sync.Engine.Prefs	DEBUG	Engine initialized
+1505635803342	Sync.Engine.Tabs	DEBUG	Engine initialized
+1505635803342	Sync.Engine.Tabs	DEBUG	Resetting tabs last sync time
+1505635803347	Sync.Engine.Addons	DEBUG	Engine initialized
+1505635803349	Sync.Engine.Extension-Storage	DEBUG	Engine initialized
+1505635803350	Sync.Service	INFO	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:54.0) Gecko/20100101 Firefox/54.0
+1505635803351	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1505635803352	Sync.Status	DEBUG	Status.login: success.login => error.login.reason.no_username
+1505635803352	Sync.Status	DEBUG	Status.service: success.status_ok => service.client_not_configured
+1505635803352	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1505635803352	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1505635803393	browserwindow.syncui	DEBUG	observed: weave:service:ready
+1505635803394	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1505635803394	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1505635803396	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1505635803397	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1505639128679	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1505639128681	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1505642455761	Sync.SyncScheduler	DEBUG	Next sync in 3600000 ms.
+1505648239352	Sync.Service	DEBUG	User-Agent: Firefox/54.0 (Linux x86_64) FxSync/1.56.0.20170612122310.desktop
+1505648239353	Sync.Service	INFO	Starting sync at 2017-09-17 14:37:19 in browser session hRVIQzwUq9Mp
+1505648239353	Sync.Service	DEBUG	In sync: should login.
+1505648239354	browserwindow.syncui	DEBUG	observed: weave:service:login:start
+1505648239355	browserwindow.syncui	DEBUG	observed: weave:service:login:start
+1505648239355	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1505648239355	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1505648239356	browserwindow.syncui	DEBUG	observed: weave:service:login:error
+1505648239356	browserwindow.syncui	DEBUG	onLoginError: login=error.login.reason.no_username, sync=success.sync
+1505648239357	browserwindow.syncui	DEBUG	observed: weave:service:login:error
+1505648239357	browserwindow.syncui	DEBUG	onLoginError: login=error.login.reason.no_username, sync=success.sync
+1505648239359	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1505648239360	Sync.SyncScheduler	DEBUG	Next sync in 3600000 ms.
+1505648239361	Sync.ErrorHandler	ERROR	Sync encountered a login error
+1505648239362	Sync.Service	DEBUG	Exception calling WrappedLock: Aborting login, client not configured.
+1505648239363	Sync.Service	DEBUG	Not syncing: login returned false.
+1505648239369	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1505648239370	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1505648239371	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1505648239371	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1505648239373	Sync.ErrorHandler	DEBUG	Addons installed: 1
+1505648239373	Sync.ErrorHandler	DEBUG	 - Ubuntu Modifications, version 3.2, id ubufox@ubuntu.com

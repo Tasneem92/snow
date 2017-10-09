@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html class="html" lang="en-US">
+ <head>
+
+  <script type="text/javascript">
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "romero.css"], "outOfDate":[]};
+</script>
+  
+  <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
+  <meta name="generator" content="2015.0.2.310"/>
+  <title>Romero</title>
+  <!-- CSS -->
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?3780157873"/>
+  <link rel="stylesheet" type="text/css" href="css/romero.css?4141704037" id="pagesheet"/>
+  <!-- Other scripts -->
+  <script type="text/javascript">
+   document.documentElement.className += ' js';
+var __adobewebfontsappname__ = "muse";
+</script>
+  <!-- JS includes -->
+  <script type="text/javascript">
+   document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/dancing-script:n4:all.js" type="text/javascript">\x3C/script>');
+</script>
+   </head>
+ <body>
+
+  <div class="clearfix" id="page"><!-- column -->
+   <div class="position_content" id="page_position_content">
+    <div class="browser_width" id="u20137-bw">
+     <div class="pinned-colelem" id="u20137"><!-- simple frame --></div>
+    </div>
+    <div class="SlideShowWidget clearfix colelem" id="slideshowu11370"><!-- none box -->
+     <div class="popup_anchor" id="u11403popup">
+      <div class="SlideShowContentPanel clearfix" id="u11403"><!-- stack box -->
+       <!-- m_editable region-id="editable-static-tag-U11590" template="romero.html" data-type="image" data-ice-options="srcAttr=data-src" -->
+       <div class="SSSlide clip_frame grpelem" id="u11590" data-muse-uid="U11590" data-muse-type="img_frame"><!-- image -->
+        <img class="ImageInclude" id="u11590_img" data-src="images/1.jpg" src="images/blank.gif" alt="" data-width="1224" data-height="817" data-muse-src="images/1.jpg"/>
+       </div>
+       <!-- /m_editable -->
+       <!-- m_editable region-id="editable-static-tag-U19017" template="romero.html" data-type="image" data-ice-options="srcAttr=data-src" -->
+       <div class="SSSlide invi clip_frame grpelem" id="u19017" data-muse-uid="U19017" data-muse-type="img_frame"><!-- image -->
+        <img class="ImageInclude" id="u19017_img" data-src="images/2.jpg" src="images/blank.gif" alt="" data-width="1224" data-height="817" data-muse-src="images/2.jpg"/>
+       </div>
+       <!-- /m_editable -->
+       <!-- m_editable region-id="editable-static-tag-U19026" template="romero.html" data-type="image" data-ice-options="srcAttr=data-src" -->
+       <div class="SSSlide invi clip_frame grpelem" id="u19026" data-muse-uid="U19026" data-muse-type="img_frame"><!-- image -->
+        <img class="ImageInclude" id="u19026_img" data-src="images/3.jpg" src="images/blank.gif" alt="" data-width="1224" data-height="817" data-muse-src="images/3.jpg"/>
+       </div>
+       <!-- /m_editable -->
+       <!-- m_editable region-id="editable-static-tag-U19035" template="romero.html" data-type="image" data-ice-options="srcAttr=data-src" -->
+       <div class="SSSlide invi clip_frame grpelem" id="u19035" data-muse-uid="U19035" data-muse-type="img_frame"><!-- image -->
+        <img class="ImageInclude" id="u19035_img" data-src="images/4.jpg" src="images/blank.gif" alt="" data-width="1224" data-height="786" data-muse-src="images/4.jpg"/>
+       </div>
+       <!-- /m_editable -->
+       <!-- m_editable region-id="editable-static-tag-U19044" template="romero.html" data-type="image" data-ice-options="srcAttr=data-src" -->
+       <div class="SSSlide invi clip_frame grpelem" id="u19044" data-muse-uid="U19044" data-muse-type="img_frame"><!-- image -->
+        <img class="ImageInclude" id="u19044_img" data-src="images/5.jpg" src="images/blank.gif" alt="" data-width="1224" data-height="817" data-muse-src="images/5.jpg"/>
+       </div>
+       <!-- /m_editable -->
+       <!-- m_editable region-id="editable-static-tag-U19053" template="romero.html" data-type="image" data-ice-options="srcAttr=data-src" -->
+       <div class="SSSlide invi clip_frame grpelem" id="u19053" data-muse-uid="U19053" data-muse-type="img_frame"><!-- image -->
+        <img class="ImageInclude" id="u19053_img" data-src="images/6.jpg" src="images/blank.gif" alt="" data-width="1224" data-height="814" data-muse-src="images/6.jpg"/>
+       </div>
+       <!-- /m_editable -->
+       <!-- m_editable region-id="editable-static-tag-U19062" template="romero.html" data-type="image" data-ice-options="srcAttr=data-src" -->
+       <div class="SSSlide invi clip_frame grpelem" id="u19062" data-muse-uid="U19062" data-muse-type="img_frame"><!-- image -->
+        <img class="ImageInclude" id="u19062_img" data-src="images/7.jpg" src="images/blank.gif" alt="" data-width="1224" data-height="852" data-muse-src="images/7.jpg"/>
+       </div>
+       <!-- /m_editable -->
+       <!-- m_editable region-id="editable-static-tag-U19071" template="romero.html" data-type="image" data-ice-options="srcAttr=data-src" -->
+       <div class="SSSlide invi clip_frame grpelem" id="u19071" data-muse-uid="U19071" data-muse-type="img_frame"><!-- image -->
+        <img class="ImageInclude" id="u19071_img" data-src="images/8.jpg" src="images/blank.gif" alt="" data-width="1224" data-height="817" data-muse-src="images/8.jpg"/>
+       </div>
+       <!-- /m_editable -->
+      </div>
+     </div>
+     <div class="popup_anchor" id="u11380-4popup">
+      <!-- m_editable region-id="editable-static-tag-U11380" template="romero.html" data-type="html" data-ice-options="disableImageResize,link,clickable" -->
+      <div class="SSPreviousButton clearfix" id="u11380-4" data-muse-uid="U11380" data-muse-type="txt_frame"><!-- content -->
+       <p>&lt;</p>
+      </div>
+      <!-- /m_editable -->
+     </div>
+     <div class="popup_anchor" id="u11420-4popup">
+      <!-- m_editable region-id="editable-static-tag-U11420" template="romero.html" data-type="html" data-ice-options="disableImageResize,link,clickable" -->
+      <div class="SSNextButton clearfix" id="u11420-4" data-muse-uid="U11420" data-muse-type="txt_frame"><!-- content -->
+       <p>&gt;</p>
+      </div>
+      <!-- /m_editable -->
+     </div>
+    </div>
+    <div class="clearfix colelem" id="ppu20138"><!-- group -->
+     <a class="nonblock nontext" id="u20138" href="index.html" data-href="page:U2311"><!-- state-based BG images --><img id="u20138_states" alt="ROMERO GROUP" src="images/blank.gif"/></a>
+     <a class="nonblock nontext" id="u20139" href="my-romero.html" data-href="page:U1507"><!-- state-based BG images --><img id="u20139_states" alt="MY ROMERO" src="images/blank.gif"/></a>
+     <a class="nonblock nontext" id="u20144" href="book-your-table.html" data-href="page:U5905"><!-- state-based BG images --><img id="u20144_states" alt="BOOK YOUR TABLE" src="images/blank.gif"/></a>
+     <a class="nonblock nontext" id="u20140" href="csr.html" data-href="page:U15554"><!-- state-based BG images --><img id="u20140_states" alt="CSR" src="images/blank.gif"/></a>
+     <a class="nonblock nontext" id="u20141" href="gift-voucher.html" data-href="page:U5899"><!-- state-based BG images --><img id="u20141_states" alt="GIFT VOUCHERS" src="images/blank.gif"/></a>
+     <a class="nonblock nontext" id="u20142" href="join-our-team.html" data-href="page:U15894"><!-- state-based BG images --><img id="u20142_states" alt="JOIN OUR TEAM" src="images/blank.gif"/></a>
+     <a class="nonblock nontext" id="u20143" href="contact-us.html" data-href="page:U16906"><!-- state-based BG images --><img id="u20143_states" alt="CONTACT US" src="images/blank.gif"/></a>
+    </div>
+    <div class="PamphletWidget clearfix pinned-colelem" id="pamphletu20145"><!-- none box -->
+     <div class="popup_anchor" id="u20148popup">
+      <div class="ContainerGroup clearfix" id="u20148"><!-- none box -->
+       <div class="Container invi rgba-background clearfix grpelem" id="u20149"><!-- column -->
+        <a class="nonblock nontext MuseLinkActive colelem" id="u20155-4" href="romero.html" data-href="page:U1128"><!-- rasterized frame --><img id="u20155-4_img" alt="Romero Restaurant" width="214" height="21" src="images/u20155-4-a.png"/></a>
+        <a class="nonblock nontext colelem" id="u20156" href="the-living-room.html" data-href="page:U13988"><!-- state-based BG images --><img id="u20156_states" alt="The Living Room " src="images/blank.gif"/></a>
+        <a class="nonblock nontext colelem" id="u20153" href="loft.html" data-href="page:U13628"><!-- state-based BG images --><img id="u20153_states" alt="THE LOFT" src="images/blank.gif"/></a>
+        <a class="nonblock nontext colelem" id="u20150" href="sufra.html" data-href="page:U14263"><!-- state-based BG images --><img id="u20150_states" alt="Sufra" src="images/blank.gif"/></a>
+        <a class="nonblock nontext colelem" id="u20151" href="um-qais.html" data-href="page:U14369"><!-- state-based BG images --><img id="u20151_states" alt="Umm Qais" src="images/blank.gif"/></a>
+        <a class="nonblock nontext colelem" id="u20154" href="ryc.html" data-href="page:U14475"><!-- state-based BG images --><img id="u20154_states" alt="tHE ROYAL YACHT CLUB RESTAURANT" src="images/blank.gif"/></a>
+        <a class="nonblock nontext colelem" id="u20152" href="the-red-sea-loft.html" data-href="page:U15020"><!-- state-based BG images --><img id="u20152_states" alt="tHE RED SEA LOFT" src="images/blank.gif"/></a>
+       </div>
+      </div>
+     </div>
+     <div class="ThumbGroup clearfix grpelem" id="u20161"><!-- none box -->
+      <div class="popup_anchor">
+       <div class="Thumb popup_element clearfix" id="u20162"><!-- group -->
+        <img class="grpelem" id="u20163" alt="OUR RESTUARANTS" src="images/blank.gif"/><!-- state-based BG images -->
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="rgba-background clearfix colelem" id="u13955"><!-- group -->
+     <div class="museBGSize grpelem" id="u13956"><!-- simple frame --></div>
+    </div>
+    <div class="browser_width colelem" id="u11653-bw">
+     <div id="u11653"><!-- group -->
+      <div class="clearfix" id="u11653_align_to_page">
+       <div class="clearfix grpelem" id="pu11671"><!-- column -->
+        <div class="clearfix colelem" id="u11671"><!-- group -->
+         <!-- m_editable region-id="editable-static-tag-U11656" template="romero.html" data-type="html" data-ice-options="clickable" data-ice-editable="link" -->
+         <a class="nonblock nontext museBGSize grpelem" id="u11656" href="assets/romero-menu.pdf" data-href="upload:U6527" target="_blank" data-muse-uid="U11656"><!-- simple frame --></a>
+         <!-- /m_editable -->
+         <div class="clearfix grpelem" id="ppu11669"><!-- column -->
+          <a class="nonblock nontext colelem" id="u11669" href="assets/romero-menu.pdf" data-href="upload:U6527" target="_blank"><!-- state-based BG images --><img id="u11669_states" alt="MENU" src="images/blank.gif"/></a>
+          <a class="nonblock nontext colelem" id="u11670" href="assets/romero-menu.pdf" data-href="upload:U6527" target="_blank"><!-- state-based BG images --><img id="u11670_states" alt="PDF" src="images/blank.gif"/></a>
+         </div>
+        </div>
+        <div class="clearfix colelem" id="u11674"><!-- group -->
+         <!-- m_editable region-id="editable-static-tag-U11657" template="romero.html" data-type="html" data-ice-options="clickable" data-ice-editable="link" -->
+         <a class="nonblock nontext museBGSize grpelem" id="u11657" href="https://www.google.jo/maps/place/31%C2%B057'09.8%22N+35%C2%B054'44.3%22E/@31.9527222,35.9123056,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0?hl=en" target="_blank" data-muse-uid="U11657"><!-- simple frame --></a>
+         <!-- /m_editable -->
+         <div class="clearfix grpelem" id="ppu11672"><!-- column -->
+          <a class="nonblock nontext colelem" id="u11672" href="https://www.google.jo/maps/place/31%C2%B057'09.8%22N+35%C2%B054'44.3%22E/@31.9527222,35.9123056,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0?hl=en" target="_blank"><!-- state-based BG images --><img id="u11672_states" alt="LOCATION" src="images/blank.gif"/></a>
+          <a class="nonblock nontext colelem" id="u11673" href="https://www.google.jo/maps/place/31%C2%B057'09.8%22N+35%C2%B054'44.3%22E/@31.9527222,35.9123056,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0?hl=en" target="_blank"><!-- state-based BG images --><img id="u11673_states" alt="GOOGLE MAPS" src="images/blank.gif"/></a>
+         </div>
+        </div>
+       </div>
+       <div class="clearfix grpelem" id="pu11654-4"><!-- column -->
+        <!-- m_editable region-id="editable-static-tag-U11654" template="romero.html" data-type="html" data-ice-options="disableImageResize,link" -->
+        <div class="clearfix colelem" id="u11654-4" data-muse-uid="U11654" data-muse-type="txt_frame"><!-- content -->
+         <p>Tastes of Italy</p>
+        </div>
+        <!-- /m_editable -->
+        <!-- m_editable region-id="editable-static-tag-U11655" template="romero.html" data-type="html" data-ice-options="disableImageResize,link" -->
+        <div class="clearfix colelem" id="u11655-17" data-muse-uid="U11655" data-muse-type="txt_frame"><!-- content -->
+         <p id="u11655-2">In 1979, Mrs. Flavia Romero took her Italian roots and planted them in Amman by establishing Romero Restaurant.</p>
+         <p id="u11655-4">In 1988, the legacy created by Romero was handed over to Mr. Zaid Goussous, whose passion and love for fine cuisine continues to drive his inspiration today.</p>
+         <p id="u11655-5">&nbsp;</p>
+         <p id="u11655-7">Goussous had successfully maintained a small piece of Italy in the heart of our beloved Amman with its enchanting ambience and indulging cuisine.</p>
+         <p id="u11655-8">&nbsp;</p>
+         <p id="u11655-9">&nbsp;</p>
+         <p id="u11655-12"><span id="u11655-10">Address: </span>Jabal Amman â€“ 3rd Circle&nbsp; Amman â€“ Jordan</p>
+         <p id="u11655-15"><span id="u11655-13">For delivery &amp; reservations: </span> +962 -6 - 4644227/8</p>
+        </div>
+        <!-- /m_editable -->
+       </div>
+       <div class="clearfix grpelem" id="ppu11676"><!-- column -->
+        <div class="clearfix colelem" id="pu11676"><!-- group -->
+         <!-- m_editable region-id="editable-static-tag-U11676" template="romero.html" data-type="html" data-ice-options="clickable" data-ice-editable="link" -->
+         <a class="nonblock nontext museBGSize grpelem" id="u11676" href="https://twitter.com/RomeroGroup" target="_blank" data-muse-uid="U11676"><!-- simple frame --></a>
+         <!-- /m_editable -->
+         <!-- m_editable region-id="editable-static-tag-U11677" template="romero.html" data-type="html" data-ice-options="clickable" data-ice-editable="link" -->
+         <a class="nonblock nontext museBGSize grpelem" id="u11677" href="https://www.facebook.com/RomeroRestaurant?fref=ts" target="_blank" data-muse-uid="U11677"><!-- simple frame --></a>
+         <!-- /m_editable -->
+         <!-- m_editable region-id="editable-static-tag-U11675" template="romero.html" data-type="html" data-ice-options="clickable" data-ice-editable="link" -->
+         <a class="nonblock nontext museBGSize grpelem" id="u11675" href="https://instagram.com/romerogroup/" target="_blank" data-muse-uid="U11675"><!-- simple frame --></a>
+         <!-- /m_editable -->
+        </div>
+        <!-- m_editable region-id="editable-static-tag-U19950" template="romero.html" data-type="html" data-ice-options="disableImageResize,link" -->
+        <div class="clearfix colelem" id="u19950-4" data-muse-uid="U19950" data-muse-type="txt_frame"><!-- content -->
+         <p>Romero Group @ 2015. All Rights Reserved</p>
+        </div>
+        <!-- /m_editable -->
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="verticalspacer"></div>
+   </div>
+  </div>
+  <div class="preload_images">
+   <img class="preload" src="images/u20138_states-r.png" alt=""/>
+   <img class="preload" src="images/u20139_states-r.png" alt=""/>
+   <img class="preload" src="images/u20144_states-r.png" alt=""/>
+   <img class="preload" src="images/u20140_states-r.png" alt=""/>
+   <img class="preload" src="images/u20141_states-r.png" alt=""/>
+   <img class="preload" src="images/u20141_states-m.png" alt=""/>
+   <img class="preload" src="images/u20142_states-r.png" alt=""/>
+   <img class="preload" src="images/u20143_states-r.png" alt=""/>
+   <img class="preload" src="images/u20156_states-r.png" alt=""/>
+   <img class="preload" src="images/u20153_states-r.png" alt=""/>
+   <img class="preload" src="images/u20150_states-r.png" alt=""/>
+   <img class="preload" src="images/u20151_states-r.png" alt=""/>
+   <img class="preload" src="images/u20154_states-r.png" alt=""/>
+   <img class="preload" src="images/u20152_states-r.png" alt=""/>
+   <img class="preload" src="images/u20163-r.png" alt=""/>
+   <img class="preload" src="images/u20163-a.png" alt=""/>
+   <img class="preload" src="images/u11669_states-r.png" alt=""/>
+   <img class="preload" src="images/u11670_states-r.png" alt=""/>
+   <img class="preload" src="images/u11672_states-r.png" alt=""/>
+   <img class="preload" src="images/u11673_states-r.png" alt=""/>
+   <img class="preload" src="images/logos-01%20copy-u11676-r-fr.png" alt=""/>
+   <img class="preload" src="images/facebook%20blue.png" alt=""/>
+   <img class="preload" src="images/instagram-logo.png" alt=""/>
+  </div>
+  <!-- JS includes -->
+  <script type="text/javascript">
+   if (document.location.protocol != 'https:') document.write('\x3Cscript src="http://musecdn2.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+</script>
+  <script type="text/javascript">
+   window.jQuery || document.write('\x3Cscript src="scripts/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+</script>
+  <script src="scripts/museutils.js?275725342" type="text/javascript"></script>
+  <script src="scripts/webpro.js?3883484123" type="text/javascript"></script>
+  <script src="scripts/musewpslideshow.js?360574455" type="text/javascript"></script>
+  <script src="scripts/jquery.museoverlay.js?342093292" type="text/javascript"></script>
+  <script src="scripts/touchswipe.js?4218319045" type="text/javascript"></script>
+  <script src="scripts/jquery.musepolyfill.bgsize.js?185257658" type="text/javascript"></script>
+  <script src="scripts/jquery.watch.js?3999102769" type="text/javascript"></script>
+  <!-- Other scripts -->
+  <script type="text/javascript">
+   $(document).ready(function() { try {
+(function(){var a={},b=function(a){if(a.match(/^rgb/))return a=a.replace(/\s+/g,"").match(/([\d\,]+)/gi)[0].split(","),(parseInt(a[0])<<16)+(parseInt(a[1])<<8)+parseInt(a[2]);if(a.match(/^\#/))return parseInt(a.substr(1),16);return 0};(function(){$('link[type="text/css"]').each(function(){var b=($(this).attr("href")||"").match(/\/?css\/([\w\-]+\.css)\?(\d+)/);b&&b[1]&&b[2]&&(a[b[1]]=b[2])})})();(function(){$("body").append('<div class="version" style="display:none; width:1px; height:1px;"></div>');
+for(var c=$(".version"),d=0;d<Muse.assets.required.length;){var f=Muse.assets.required[d],g=f.match(/([\w\-\.]+)\.(\w+)$/),k=g&&g[1]?g[1]:null,g=g&&g[2]?g[2]:null;switch(g.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");c.addClass(k);var g=b(c.css("color")),h=b(c.css("background-color"));g!=0||h!=0?(Muse.assets.required.splice(d,1),"undefined"!=typeof a[f]&&(g!=a[f]>>>24||h!=(a[f]&16777215))&&Muse.assets.outOfDate.push(f)):d++;c.removeClass(k);break;case "js":k.match(/^jquery-[\d\.]+/gi)&&
+typeof $!="undefined"?Muse.assets.required.splice(d,1):d++;break;default:throw Error("Unsupported file type: "+g);}}c.remove();if(Muse.assets.outOfDate.length||Muse.assets.required.length)c="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",(d=location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi))&&Muse.assets.outOfDate.length&&(c+="\nOut of date: "+Muse.assets.outOfDate.join(",")),d&&Muse.assets.required.length&&(c+="\nMissing: "+Muse.assets.required.join(",")),alert(c)})()})();/* body */
+Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
+Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.initWidget('#slideshowu11370', function(elem) { $(elem).data('widget', new WebPro.Widget.ContentSlideShow(elem, {heroFitting:'fillFrameProportionally',autoPlay:true,displayInterval:3500,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:500,enableSwipe:true,elastic:'fullWidth',resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false})); });/* #slideshowu11370 */
+Muse.Utils.initWidget('#pamphletu20145', function(elem) { new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'loose',event:'mouseover',deactivationEvent:'mouseout_both',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:true,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); });/* #pamphletu20145 */
+Muse.Utils.resizeHeight()/* resize height */
+Muse.Utils.fullPage('#page');/* 100% height page */
+Muse.Utils.showWidgetsWhenReady();/* body */
+Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
+} catch(e) { if (e && 'function' == typeof e.notify) e.notify(); else Muse.Assert.fail('Error calling selector function:' + e); }});
+</script>
+   </body>
+</html>
+ƒÎóíô      YÙaYÙa>GOQYâ;f   )    :http://www.romero-jordan.com/romero.html necko:classified 1 strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Tue, 22 Sep 2015 11:10:49 GMT
+Accept-Ranges: bytes
+Etag: "d921f5627f5d01:0"
+Server: Microsoft-IIS/8.5
+x-powered-by: ASP.NET
+X-Powered-By-Plesk: PleskWin
+Date: Sat, 07 Oct 2017 16:29:26 GMT
+Content-Length: 21887
+ original-response-headers Content-Type: text/html
+Last-Modified: Tue, 22 Sep 2015 11:10:49 GMT
+Accept-Ranges: bytes
+Etag: "d921f5627f5d01:0"
+Server: Microsoft-IIS/8.5
+x-powered-by: ASP.NET
+X-Powered-By-Plesk: PleskWin
+Date: Sat, 07 Oct 2017 16:29:26 GMT
+Content-Length: 21887
+ charset windows-1252 uncompressed-len 0 predictor::resource-count 73 predictor::http://www.romero-jordan.com/css/site_global.css?3780157873 1,2,1507393889,12288 predictor::http://www.romero-jordan.com/css/romero.css?4141704037 1,2,1507393889,12288 predictor::http://www.romero-jordan.com/images/blank.gif 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/u20155-4-a.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/u20138_states-r.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/u20139_states-r.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/u20144_states-r.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/u20140_states-r.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/u20141_states-r.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/u20141_states-m.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/u20142_states-r.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/u20143_states-r.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/u20156_states-r.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/u20153_states-r.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/u20150_states-r.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/u20151_states-r.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/u20154_states-r.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/u20152_states-r.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/u20163-r.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/u20163-a.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/u11669_states-r.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/u11670_states-r.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/u11672_states-r.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/u11673_states-r.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/logos-01%20copy-u11676-r-fr.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/facebook%20blue.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/instagram-logo.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/scripts/museutils.js?275725342 1,2,1507393889,12288 predictor::http://www.romero-jordan.com/scripts/webpro.js?3883484123 1,2,1507393889,12288 predictor::http://www.romero-jordan.com/scripts/musewpslideshow.js?360574455 1,2,1507393889,12288 predictor::http://www.romero-jordan.com/scripts/jquery.museoverlay.js?342093292 1,2,1507393889,12288 predictor::http://www.romero-jordan.com/scripts/touchswipe.js?4218319045 1,2,1507393889,12288 predictor::http://www.romero-jordan.com/scripts/jquery.musepolyfill.bgsize.js?185257658 1,2,1507393889,12288 predictor::http://www.romero-jordan.com/scripts/jquery.watch.js?3999102769 1,2,1507393889,12288 net-response-time-onstart 781 net-response-time-onstop 1015 predictor::http://webfonts.creativecloud.com/dancing-script:n4:all.js 1,2,1507393889,12288 predictor::https://webfonts.creativecloud.com/c/e22042/1w;dancing-script,1,Wdd:W:n4/l 1,2,1507393889,12288 predictor::http://musecdn2.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js 1,2,1507393889,12288 predictor::http://www.romero-jordan.com/images/u20138_states.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/u20139_states.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/u20144_states.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/u20140_states.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/u20141_states.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/u20142_states.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/u20143_states.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/u20156_states.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/u20153_states.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/u20150_states.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/u20151_states.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/u20154_states.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/u20152_states.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/u20163.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/romero%20restaurant-u13956-fr.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/menu%20icon.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/u11669_states.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/u11670_states.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/location%20map%20icon.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/u11672_states.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/u11673_states.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/logos-01.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/logos-02.png 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/logos_artboard%203.png 1,1,1507393766,8192 predictor::https://p.typekit.net/p.gif?s=4&k=&app=muse&ht=tk&h=www.romero-jordan.com&f=16157&a=&sl=101&fl=14&dc=true&js=1.14.9&_=1507393768320 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/null 1,2,1507393889,12288 predictor::http://www.romero-jordan.com/images/1.jpg 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/loading.gif 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/2.jpg 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/3.jpg 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/4.jpg 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/5.jpg 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/6.jpg 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/7.jpg 1,1,1507393766,8192 predictor::http://www.romero-jordan.com/images/8.jpg 1,1,1507393766,8192 predictor::https://p.typekit.net/p.gif?s=4&k=&app=muse&ht=tk&h=www.romero-jordan.com&f=16157&a=&sl=6&fl=5&dc=true&js=1.14.9&_=1507393889535 1,1,1507393889,4096   U

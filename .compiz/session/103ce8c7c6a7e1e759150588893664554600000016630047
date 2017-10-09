@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<compiz_session id="103ce8c7c6a7e1e759150588893664554600000016630047">
+  <window id="103ce8c7c6a7e1e759150626616013410400000016630055" title="JAVASCRIPT 25 SEP.odt - LibreOffice Writer" class="libreoffice-writer" name="libreoffice" command="soffice">
+    <geometry x="139" y="24" width="1578" height="1028"/>
+    <minimized/>
+    <workspace index="0"/>
+  </window>
+  <window id="103ce8c7c6a7e1e759150626616013410400000016630055" title="javascript examples.odt - LibreOffice Writer" class="libreoffice-writer" name="libreoffice" command="soffice">
+    <geometry x="1038" y="24" width="881" height="1028"/>
+    <minimized/>
+    <workspace index="0"/>
+  </window>
+  <window id="103ce8c7c6a7e1e759150626616013410400000016630055" title="20 Sep.odt - LibreOffice Writer" class="libreoffice-writer" name="libreoffice" command="soffice">
+    <geometry x="1038" y="24" width="881" height="1028"/>
+    <workspace index="0"/>
+  </window>
+  <window id="103ce8c7c6a7e1e759150626251650440700000016630054" title="Display text over a responsive image in Bootstrap | StackTips - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="992" y="259" width="928" height="1056"/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+  <window id="103ce8c7c6a7e1e759150626251650440700000016630054" title="Cover Letter - Front End Developer - tasneem.rawashdeh92@gmail.com - Gmail - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="65" y="44" width="928" height="1056"/>
+    <maximized vert="yes"/>
+    <workspace index="0"/>
+  </window>
+  <window id="103ce8c7c6a7e1e759150626251650440700000016630054" title="The Marvels- Weekly Feedback - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="65" y="34" width="1855" height="1056"/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>

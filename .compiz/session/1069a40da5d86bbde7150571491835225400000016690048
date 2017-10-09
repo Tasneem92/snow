@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<compiz_session id="1069a40da5d86bbde7150571491835225400000016690048">
+  <window id="1069a40da5d86bbde7150573465753728100000016690051" title="! * marram | Mesbah Slack - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="190" y="24" width="1730" height="1037"/>
+    <minimized/>
+    <workspace index="0"/>
+  </window>
+  <window id="1069a40da5d86bbde7150573465753728100000016690051" title="CSS Styling Links - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="313" y="539" width="1280" height="978"/>
+    <minimized/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>

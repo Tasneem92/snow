@@ -1,0 +1,203 @@
+#content {
+	margin: auto;
+	background-color: #203241;
+	width: 100%;
+	height: 100%;
+	font-family: "Whitney SSm A","Whitney SSm B","Lucida Grande","Lucida Sans",Verdana,Helvetica,Arial,sans-serif;
+	}
+
+#headers {
+	margin: auto;
+	height: 315px;
+	}
+
+#title {
+	float: left;
+	color: #BDC4CA;
+	padding: 51px 112px 85px 65px;
+	font-size: 3em;
+	}
+
+.timeline {
+	padding: 165px 61px 24px 137px;
+	color: #446267;
+	text-align: right;
+	}
+
+.nav li {
+	text-transform: uppercase;
+	display: inline-block;
+	list-style: none;
+	padding-right: 26px;
+	font-weight: bold;
+	text-align: left;
+	}
+a:link { 
+	text-decoration: none;
+	color: #BDC4CA;
+	}
+
+a:visited {
+	color: #BDC4CA;
+	}
+
+header ul {
+	text-align: right;
+	padding-right: 40px;
+	}
+
+.footerposition {
+	height: 150px;
+	text-transform: capitalize;
+	font-size: normal;
+	color: #425D5C;
+	font-weight: bold;
+	padding-left: 87px;
+	margin-bottom: 0;
+	clear:both;
+	}
+
+
+.footernav	{
+	display: inline-block;
+	list-style: none;
+	padding-right: 150px;
+	float:right;
+	text-align: right;
+	}
+
+.footernav li {
+	float:left;
+	list-style: none;
+	padding-right: 20px;
+	}
+
+.copyrights { 
+	padding-right: 700px;
+	padding-left: 183px;
+	margin-top: 50px;
+	float:left;
+	
+	}
+
+footer ul {
+	margin-top: 50px;
+	}
+
+#register-background{
+	height: 195px;
+	background-image : linear-gradient(to right, #A1D4AF, #F4F0DA);
+
+	}
+
+#register {
+	padding-top: 49px;
+	color: #446267;
+	text-align: center;
+	font-weight: normal;
+	text-transform: capitalize;
+	}
+
+#every-year {
+	color: #646365;
+	text-align: center;
+	padding-left: 147px;
+	padding-right: 117px;
+	line-height: 40px;
+	}
+
+.why-attend { 
+	list-style: square;
+	margin: 0 0 22px 30px;
+	}
+
+h3,
+h4	{
+	color: #446267;
+	}
+h5,
+.why-attend,
+.purchase p {
+	color: #B9B9B9;
+	}
+
+.purchase {
+	width: 100%;
+	height: 450px;
+	background-color: white;
+	padding: 68px 0 157px 50px;
+	
+	}
+
+.purchase-pass {
+	margin-top: -18px;
+	width: 55%;
+	float: left;
+	}
+
+
+
+label {
+	display: block;
+	color: #648880;
+	margin-bottom: 24px;
+	}
+
+text-area {
+	height: 78px;
+	}
+
+form {
+  margin-bottom: 22px;
+  
+	}
+
+input, 
+textarea,
+select { 
+	font: 300 16px/22px;
+	border: 1px solid #C6C9CC;
+	border-radius: 5px;
+	display: block;
+	color: #888;
+	}
+
+input, 
+textarea {
+	width: 70%;
+	}
+
+select {
+	width: 60px;
+	height: 34px;
+	margin-top: 10px;
+	}
+
+aside {
+	width: 40%;
+	float: left;
+	margin-left: 30px; 
+
+	}
+
+input {
+	margin-top: 10px;
+	height: 30px;
+	}
+
+textarea {
+	height: 70px;
+	}
+
+fieldset {
+	border: none;
+	}
+
+#submit {
+	width: 123px;
+	height: 46px;
+	text-transform: uppercase;
+	background-color: #638880;
+	color: #BDC4CA;
+	font-weight: bold;
+	}

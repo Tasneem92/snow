@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<compiz_session id="104400db3131090a5150661692759725200000015220048">
+  <window id="104400db3131090a5150661696566612000000015220049" title="Display text over a responsive image in Bootstrap | StackTips - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="992" y="24" width="928" height="1028"/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+  <window id="104400db3131090a5150661696566612000000015220049" title="Problem loading page - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="65" y="24" width="928" height="1028"/>
+    <workspace index="0"/>
+  </window>
+  <window id="104400db3131090a5150661696566612000000015220049" title="placeholders - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="794" y="67" width="385" height="1056"/>
+    <minimized/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>

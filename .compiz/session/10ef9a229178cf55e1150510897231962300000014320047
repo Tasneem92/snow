@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<compiz_session id="10ef9a229178cf55e1150510897231962300000014320047">
+  <window id="10ef9a229178cf55e1150513155354260800000014320053" title="Welcome Aboard! - tasneem.rawashdeh92@gmail.com - Gmail - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="640" y="24" width="1280" height="950"/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>

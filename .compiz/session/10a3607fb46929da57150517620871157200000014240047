@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<compiz_session id="10a3607fb46929da57150517620871157200000014240047">
+  <window id="10a3607fb46929da57150521400665281700000014240049" title="mkdir - Google Search - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="474" y="24" width="964" height="1028"/>
+    <minimized/>
+    <workspace index="0"/>
+  </window>
+  <window id="10a3607fb46929da57150521400665281700000014240049" title="Apt - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="601" y="188" width="1280" height="922"/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>

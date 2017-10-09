@@ -1,0 +1,39 @@
+WARN  2017-10-07 11:11:38 unity.iconloader IconLoader.cpp:756 Unable to load icon file:/// at size -1x22: Can't open directory
+ERROR 2017-10-07 11:11:40 unityfree <unknown>:0 g_sequence_get: assertion '!is_end (iter)' failed
+ERROR 2017-10-07 11:11:40 unity null <unknown>:0 Unable to get value. NULL row data in DeeSequenceModel@0x4106b80 at position 18. The row has probably been removed
+ERROR 2017-10-07 11:11:40 unity null <unknown>:0 Unable to get string. Column 5 in DeeSequenceModel@0x4106b80 holds a NULL value in row 18
+[4094:4094:1007/111212.231443:ERROR:CONSOLE(1)] "Uncaught ReferenceError: inline is not defined", source:  (1)
+javaldx: Could not find a Java Runtime Environment!
+Warning: failed to read path from javaldx
+
+(soffice:5026): Gdk-WARNING **: gdk_window_set_icon_list: icons too large
+
+(soffice:5026): Gdk-WARNING **: gdk_window_set_icon_list: icons too large
+
+(soffice:5026): Gdk-WARNING **: gdk_window_set_icon_list: icons too large
+
+(soffice:5026): GLib-GObject-WARNING **: /build/glib2.0-prJhLS/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7fcb9c0031a0' of type 'OOoAtkObjCompTxt'
+
+(soffice:5026): Gdk-WARNING **: gdk_window_set_icon_list: icons too large
+
+** (soffice:5026): WARNING **: Unknown event notification 36
+[4166:4166:1007/115053.158658:ERROR:sync_control_vsync_provider.cc(64)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[4094:4131:1007/121020.166871:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+[4094:4131:1007/190553.897358:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+[4094:4131:1007/190615.273738:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+[4094:4131:1007/190623.866071:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -137
+[4094:4131:1008/090927.908499:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+[4094:4131:1008/090937.509969:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -137
+[4094:4131:1008/130146.290040:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+[4094:4131:1008/163548.026961:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -137
+[4094:4131:1008/163649.940835:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+[4094:4131:1008/164700.015123:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -137
+[4094:4131:1008/164700.996679:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -137
+[4094:4131:1009/093238.932783:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+[4094:4131:1009/093258.948973:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -137
+
+(soffice:5026): Gdk-WARNING **: gdk_window_set_icon_list: icons too large
+ERROR 2017-10-09 09:47:41 unity.decoration.shape DecorationsShape.cpp:73 Failed to get shape rectangles
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 16384x16384 to texture.
+ERROR 2017-10-09 09:47:41 unity.decoration.shape DecorationsShape.cpp:73 Failed to get shape rectangles
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 16384x16384 to texture.

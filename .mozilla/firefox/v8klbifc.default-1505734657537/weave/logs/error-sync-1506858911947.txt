@@ -1,0 +1,56 @@
+1506847857521	Sync.Service	INFO	Loading Weave 1.56.0
+1506847857524	Sync.Engine.Clients	DEBUG	Engine initialized
+1506847857525	Sync.Engine.Clients	DEBUG	Resetting clients last sync time
+1506847857531	Sync.Engine.Bookmarks	DEBUG	Engine initialized
+1506847857534	Sync.Engine.Forms	DEBUG	Engine initialized
+1506847857537	Sync.Engine.History	DEBUG	Engine initialized
+1506847857539	Sync.Engine.Passwords	DEBUG	Engine initialized
+1506847857542	Sync.Engine.Prefs	DEBUG	Engine initialized
+1506847857545	Sync.Engine.Tabs	DEBUG	Engine initialized
+1506847857545	Sync.Engine.Tabs	DEBUG	Resetting tabs last sync time
+1506847857550	Sync.Engine.Addons	DEBUG	Engine initialized
+1506847857553	Sync.Engine.Extension-Storage	DEBUG	Engine initialized
+1506847857553	Sync.Service	INFO	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:54.0) Gecko/20100101 Firefox/54.0
+1506847857555	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1506847857555	Sync.Status	DEBUG	Status.login: success.login => error.login.reason.no_username
+1506847857555	Sync.Status	DEBUG	Status.service: success.status_ok => service.client_not_configured
+1506847857555	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1506847857555	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1506847857578	browserwindow.syncui	DEBUG	observed: weave:service:ready
+1506847857579	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1506847857579	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1506847857580	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1506847857581	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1506850469802	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1506850469805	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1506850477974	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1506850477978	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1506852024420	Sync.SyncScheduler	DEBUG	Next sync in 3600000 ms.
+1506858911909	Sync.Service	DEBUG	User-Agent: Firefox/54.0 (Linux x86_64) FxSync/1.56.0.20170612122310.desktop
+1506858911911	Sync.Service	INFO	Starting sync at 2017-10-01 14:55:11 in browser session ZjWU8i8hJu6O
+1506858911912	Sync.Service	DEBUG	In sync: should login.
+1506858911914	browserwindow.syncui	DEBUG	observed: weave:service:login:start
+1506858911917	browserwindow.syncui	DEBUG	observed: weave:service:login:start
+1506858911921	browserwindow.syncui	DEBUG	observed: weave:service:login:start
+1506858911922	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1506858911922	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1506858911923	browserwindow.syncui	DEBUG	observed: weave:service:login:error
+1506858911923	browserwindow.syncui	DEBUG	onLoginError: login=error.login.reason.no_username, sync=success.sync
+1506858911925	browserwindow.syncui	DEBUG	observed: weave:service:login:error
+1506858911926	browserwindow.syncui	DEBUG	onLoginError: login=error.login.reason.no_username, sync=success.sync
+1506858911927	browserwindow.syncui	DEBUG	observed: weave:service:login:error
+1506858911927	browserwindow.syncui	DEBUG	onLoginError: login=error.login.reason.no_username, sync=success.sync
+1506858911929	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1506858911930	Sync.SyncScheduler	DEBUG	Next sync in 3600000 ms.
+1506858911930	Sync.ErrorHandler	ERROR	Sync encountered a login error
+1506858911932	Sync.Service	DEBUG	Exception calling WrappedLock: Aborting login, client not configured.
+1506858911932	Sync.Service	DEBUG	Not syncing: login returned false.
+1506858911941	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1506858911942	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1506858911943	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1506858911944	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1506858911944	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1506858911945	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1506858911946	Sync.ErrorHandler	DEBUG	Addons installed: 2
+1506858911946	Sync.ErrorHandler	DEBUG	 - Ubuntu Modifications, version 3.2, id ubufox@ubuntu.com
+1506858911947	Sync.ErrorHandler	DEBUG	 - ruler, version 0.3.0, id {b1355a29-9265-4b5e-a3ad-e9d61265d5ac}

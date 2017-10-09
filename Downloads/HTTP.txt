@@ -1,0 +1,48 @@
+HTTP: Hypertext Transfer Protocol
+The HTTP is an application layer protocol that allows web-based applications to communicate and exchange data
+
+We use the HTTP protocol because it is a conveneient way to quickly and reliably move data on the web
+The HTTP is the messenger of the web
+
+It is a TCP/IP based protocol
+It is used to deliver contents for example, images, videos, audios, documents, etc.
+
+if two computers want to communicate and exchange data, the client and the server inform of a request-response cycle
+
+Three Important Things About The HTTP:
+1- HTTP is connectionless: The computers that communicate via HTTP in a request-response cycle, after making the request, the client disconnect from the server, then when the response is ready the server re-establish the connection again and deliver the response.
+2- The HTTP can deliver any sort of data, as long as the two computers are able to read it.
+3- The HTTP is a stateless: The client and server know about each other just during the current request, if it closes, and the two computers want to connect again, tey need to provide information to each other anew, and the connection is handled as the very first one
+
+
+How the web works?
+The user type in the URL or a page using a browser
+The computer of the user and the web server should be physically connected that's the job of the internet, the TCP/IP establishes the connection using cable media and wireless media and do the neccessary work to prepare the environment for them to talk
+When the connection is established, the client sends a request called HTTP message, then the client disconnects from the server waiting for the response (because it's a connnectionless protocol)
+The server process the request, prepare the response, establishes the connection again and sends back the response as HTTP message
+
+HTTP MESSAGES:
+	A typical HTTP message consists of three 
+	1- Start Line
+	2- Headers
+	3- Body
+They contain plain text based information sometimes the body contains binary data
+REQUEST HTTP MESSAGE:
+Start lines: Method  path/to/file.ext (URL)  http/version
+The method is a command that tells the server to do (give me data, delete this, put this in the database)
+Get : the user wants to give him a webpage 
+( Essentially GET is used to retrieve remote data, and POST is used to insert/update remote data )
+URL is a set of readable characters and a way to locate the resource
+and the HTTP version that the client is using so the server understands the message
+
+Headers: specifies some information in rules, ex: the Host which is the address of the server to which where sending the request
+Tells the server what type of files we are requesting in a MIME type value: fileType/ext , E.g : image/gif  text/html
+MIME (Multipurpose Internet Mail Extensions)
+
+RESPONSE HTTP MESSAGE:
+Start line : HTTP Version and Status code that tells the client if the request succeeded or failed
+Headers
+Body
+
+
+HTTP make use of the Uniform Resource Identifier (URI) to identify a given resource and to establish a 

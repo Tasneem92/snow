@@ -1,0 +1,42 @@
+<div class="row">
+				<div class="col-12 master-bg">
+					<div class="container">
+						<h2 class="subtitle1">
+							new branding agency
+						</h2>
+						<h1 class="subtitle2"> We are about to change the way
+							<br>
+							<em class="subtitle2em">you publish on the web</em>
+						</h1>
+						<a class="freedownload" href="https://gumroad.com/l/kcakz" target="_blank">
+							<button class="nk-btn">Free Download</button>
+						</a>
+					</div>
+					
+				</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+
+<a class="freedownload" href="https://gumroad.com/l/kcakz" target="_blank">
+							<button class="nk-btn">Free Download</button>
+						</a>
+					
+
+.nk-btn {
+	width: 200px;
+	height: 58px;
+	margin-top: 35px;
+	background-color: #444444;
+	color: #FDFDFD;
+	border: none;
+	}
+

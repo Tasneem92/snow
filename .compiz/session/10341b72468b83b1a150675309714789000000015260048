@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<compiz_session id="10341b72468b83b1a150675309714789000000015260048">
+  <window id="10341b72468b83b1a150675311180591800000015260049" title="Arabic Keyboard $(C&quot;b(B %G&#x644;&#x648;&#x62D;&#x629;%@ %G&#x627;&#x644;&#x645;&#x641;&#x627;&#x62A;&#x64A;&#x62D;%@ %G&#x627;&#x644;&#x639;&#x631;&#x628;&#x64A;&#x629;%@ - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="65" y="28" width="928" height="1028"/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>

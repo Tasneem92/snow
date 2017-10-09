@@ -1,0 +1,21 @@
+logrotate state -- version 2
+"/home/tasneem/.cache/upstart/ssh-agent.log" 2017-10-6-21:19:19
+"/home/tasneem/.cache/upstart/indicator-sound.log" 2017-10-6-21:19:19
+"/home/tasneem/.cache/upstart/dbus.log" 2017-10-6-21:19:19
+"/home/tasneem/.cache/upstart/indicator-datetime.log" 2017-9-14-18:56:53
+"/home/tasneem/.cache/upstart/unity-panel-service.log" 2017-10-6-21:19:19
+"/home/tasneem/.cache/upstart/unity7.log" 2017-10-6-21:19:19
+"/home/tasneem/.cache/upstart/gpg-agent.log" 2017-10-6-21:19:19
+"/home/tasneem/.cache/upstart/at-spi2-registryd.log" 2017-10-6-21:19:19
+"/home/tasneem/.cache/upstart/unity-settings-daemon.log" 2017-10-6-21:19:19
+"/home/tasneem/.cache/upstart/indicator-keyboard.log" 2017-9-30-9:32:31
+"/home/tasneem/.cache/upstart/indicator-session.log" 2017-9-12-10:31:1
+"/home/tasneem/.cache/upstart/update-notifier-crash-_var_crash__usr_bin_unity-scope-loader.1000.crash.log" 2017-10-6-21:19:19
+"/home/tasneem/.cache/upstart/window-stack-bridge.log" 2017-10-6-21:19:19
+"/home/tasneem/.cache/upstart/update-notifier-release.log" 2017-10-6-21:19:19
+"/home/tasneem/.cache/upstart/gnome-keyring-ssh.log" 2017-10-6-21:19:19
+"/home/tasneem/.cache/upstart/upstart-event-bridge.log" 2017-10-6-21:19:19
+"/home/tasneem/.cache/upstart/hud.log" 2017-10-6-21:19:19
+"/home/tasneem/.cache/upstart/indicator-printers.log" 2017-10-5-10:18:51
+"/home/tasneem/.cache/upstart/bamfdaemon.log" 2017-10-6-21:19:19
+"/home/tasneem/.cache/upstart/unity-panel-service-lockscreen.log" 2017-10-5-10:18:51

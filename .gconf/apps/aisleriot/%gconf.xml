@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="statistics" mtime="1505129227" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>accordion.scm</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>0</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>1</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>0</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>0</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>klondike.scm</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>0</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>1</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>0</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>0</stringvalue>
+		</li>
+	</entry>
+	<entry name="game_file" mtime="1505129136" type="string">
+		<stringvalue>accordion.scm</stringvalue>
+	</entry>
+	<entry name="recent_games_list" mtime="1505129136" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>accordion</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>zebra</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>klondike</stringvalue>
+		</li>
+	</entry>
+	<entry name="show_statusbar" mtime="1505128646" type="bool" value="true"/>
+</gconf>
